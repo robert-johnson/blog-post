@@ -1,8 +1,8 @@
 ### Table of Contents
 
 1. [Installation](#installation)
-2. [Project Motivation](#motivation)
-3. [File Description](#files)
+2. [Project Information](#info)
+3. [Data](#data)
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
@@ -10,7 +10,7 @@
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
-## Project Motivation<a name="motivation"></a>
+## Project Information<a name="info"></a>
 
 Udacity Data Science Nanodegree assignment.  I have chosen to analyze the rollout of the COVID-19 vaccine in the United States. 
 
@@ -20,7 +20,7 @@ I will be looking into the following questions:
 2. Are states running out of vaccine, which is causing a slowing of the vaccination of the people?
 3. Does population density impact the efficiency of the vaccination process? 
 
-## Files Used<a name="files"></a>
+## Data<a name="data"></a>
 
 The following files are used as the raw source for the vaccination data in the United States:
 1. us-total-covid-vaccine-doses-distributed.csv
