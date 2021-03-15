@@ -1,0 +1,3302 @@
+Entity,Code,Date,people_fully_vaccinated
+Alabama,,2021-01-12,7270
+Alabama,,2021-01-13,9245
+Alabama,,2021-01-15,13488
+Alabama,,2021-01-19,16346
+Alabama,,2021-01-20,17956
+Alabama,,2021-01-21,21345
+Alabama,,2021-01-22,24840
+Alabama,,2021-01-23,27422
+Alabama,,2021-01-24,29736
+Alabama,,2021-01-25,29978
+Alabama,,2021-01-26,30933
+Alabama,,2021-01-27,33595
+Alabama,,2021-01-28,37431
+Alabama,,2021-01-29,44073
+Alabama,,2021-01-30,53742
+Alabama,,2021-01-31,55331
+Alabama,,2021-02-01,56308
+Alabama,,2021-02-02,58825
+Alabama,,2021-02-03,62990
+Alabama,,2021-02-04,69155
+Alabama,,2021-02-05,76603
+Alabama,,2021-02-06,84278
+Alabama,,2021-02-07,86141
+Alabama,,2021-02-08,88453
+Alabama,,2021-02-09,95033
+Alabama,,2021-02-10,102520
+Alabama,,2021-02-11,111036
+Alabama,,2021-02-12,122019
+Alabama,,2021-02-13,133029
+Alabama,,2021-02-14,137032
+Alabama,,2021-02-16,149288
+Alabama,,2021-02-17,154341
+Alabama,,2021-02-18,165104
+Alabama,,2021-02-19,192304
+Alabama,,2021-02-20,214512
+Alabama,,2021-02-21,219639
+Alabama,,2021-02-22,221785
+Alabama,,2021-02-23,233073
+Alabama,,2021-02-24,247024
+Alabama,,2021-02-25,261689
+Alabama,,2021-02-26,278985
+Alabama,,2021-02-27,300548
+Alabama,,2021-02-28,305731
+Alabama,,2021-03-01,308416
+Alabama,,2021-03-02,322346
+Alabama,,2021-03-03,338967
+Alabama,,2021-03-04,357384
+Alabama,,2021-03-05,374826
+Alabama,,2021-03-06,393619
+Alabama,,2021-03-07,398035
+Alabama,,2021-03-08,409937
+Alabama,,2021-03-09,420083
+Alaska,,2021-01-12,5400
+Alaska,,2021-01-13,6166
+Alaska,,2021-01-15,9406
+Alaska,,2021-01-19,10802
+Alaska,,2021-01-20,11283
+Alaska,,2021-01-21,12352
+Alaska,,2021-01-22,13718
+Alaska,,2021-01-23,15206
+Alaska,,2021-01-24,16201
+Alaska,,2021-01-25,16673
+Alaska,,2021-01-26,16815
+Alaska,,2021-01-27,18097
+Alaska,,2021-01-28,20045
+Alaska,,2021-01-29,21593
+Alaska,,2021-01-30,23320
+Alaska,,2021-01-31,24545
+Alaska,,2021-02-01,25467
+Alaska,,2021-02-02,26207
+Alaska,,2021-02-03,27528
+Alaska,,2021-02-04,30172
+Alaska,,2021-02-05,32593
+Alaska,,2021-02-06,35773
+Alaska,,2021-02-07,39541
+Alaska,,2021-02-08,40812
+Alaska,,2021-02-09,41698
+Alaska,,2021-02-10,43552
+Alaska,,2021-02-11,46006
+Alaska,,2021-02-12,48969
+Alaska,,2021-02-13,52380
+Alaska,,2021-02-14,57117
+Alaska,,2021-02-16,60964
+Alaska,,2021-02-17,62474
+Alaska,,2021-02-18,65245
+Alaska,,2021-02-19,71892
+Alaska,,2021-02-20,78623
+Alaska,,2021-02-21,82272
+Alaska,,2021-02-22,84385
+Alaska,,2021-02-23,84984
+Alaska,,2021-02-24,87061
+Alaska,,2021-02-25,90416
+Alaska,,2021-02-26,92407
+Alaska,,2021-02-27,95485
+Alaska,,2021-02-28,97692
+Alaska,,2021-03-01,100024
+Alaska,,2021-03-02,101000
+Alaska,,2021-03-03,102472
+Alaska,,2021-03-04,104193
+Alaska,,2021-03-05,106597
+Alaska,,2021-03-06,110078
+Alaska,,2021-03-07,113792
+Alaska,,2021-03-08,115635
+Alaska,,2021-03-09,117345
+American Samoa,ASM,2021-01-12,260
+American Samoa,ASM,2021-01-13,362
+American Samoa,ASM,2021-01-15,738
+American Samoa,ASM,2021-01-19,770
+American Samoa,ASM,2021-01-20,836
+American Samoa,ASM,2021-01-21,929
+American Samoa,ASM,2021-01-22,940
+American Samoa,ASM,2021-01-23,948
+American Samoa,ASM,2021-01-24,948
+American Samoa,ASM,2021-01-25,948
+American Samoa,ASM,2021-01-26,948
+American Samoa,ASM,2021-01-27,950
+American Samoa,ASM,2021-01-28,950
+American Samoa,ASM,2021-01-29,997
+American Samoa,ASM,2021-01-30,997
+American Samoa,ASM,2021-01-31,997
+American Samoa,ASM,2021-02-01,1046
+American Samoa,ASM,2021-02-02,1046
+American Samoa,ASM,2021-02-03,1305
+American Samoa,ASM,2021-02-04,1494
+American Samoa,ASM,2021-02-05,2252
+American Samoa,ASM,2021-02-06,2478
+American Samoa,ASM,2021-02-07,2478
+American Samoa,ASM,2021-02-08,2478
+American Samoa,ASM,2021-02-09,2885
+American Samoa,ASM,2021-02-10,3494
+American Samoa,ASM,2021-02-11,3685
+American Samoa,ASM,2021-02-12,4968
+American Samoa,ASM,2021-02-13,5308
+American Samoa,ASM,2021-02-14,5308
+American Samoa,ASM,2021-02-16,5860
+American Samoa,ASM,2021-02-17,5989
+American Samoa,ASM,2021-02-18,5989
+American Samoa,ASM,2021-02-19,5989
+American Samoa,ASM,2021-02-20,6893
+American Samoa,ASM,2021-02-21,7811
+American Samoa,ASM,2021-02-22,7818
+American Samoa,ASM,2021-02-23,7818
+American Samoa,ASM,2021-02-24,7979
+American Samoa,ASM,2021-02-25,7979
+American Samoa,ASM,2021-02-26,8037
+American Samoa,ASM,2021-02-27,8037
+American Samoa,ASM,2021-02-28,8037
+American Samoa,ASM,2021-03-01,8037
+American Samoa,ASM,2021-03-02,8099
+American Samoa,ASM,2021-03-03,8099
+American Samoa,ASM,2021-03-04,8208
+American Samoa,ASM,2021-03-05,8208
+American Samoa,ASM,2021-03-06,8208
+American Samoa,ASM,2021-03-07,8208
+American Samoa,ASM,2021-03-08,8254
+American Samoa,ASM,2021-03-09,8254
+Arizona,,2021-01-12,8343
+Arizona,,2021-01-13,12392
+Arizona,,2021-01-15,20837
+Arizona,,2021-01-19,30892
+Arizona,,2021-01-20,34788
+Arizona,,2021-01-21,41613
+Arizona,,2021-01-22,48938
+Arizona,,2021-01-23,55014
+Arizona,,2021-01-24,58291
+Arizona,,2021-01-25,62711
+Arizona,,2021-01-26,64551
+Arizona,,2021-01-27,68846
+Arizona,,2021-01-28,73927
+Arizona,,2021-01-29,80773
+Arizona,,2021-01-30,86990
+Arizona,,2021-01-31,92666
+Arizona,,2021-02-01,95671
+Arizona,,2021-02-02,96660
+Arizona,,2021-02-03,102107
+Arizona,,2021-02-04,111645
+Arizona,,2021-02-05,121227
+Arizona,,2021-02-06,136236
+Arizona,,2021-02-07,151392
+Arizona,,2021-02-08,161324
+Arizona,,2021-02-09,166798
+Arizona,,2021-02-10,177565
+Arizona,,2021-02-11,192542
+Arizona,,2021-02-12,207912
+Arizona,,2021-02-13,226158
+Arizona,,2021-02-14,244971
+Arizona,,2021-02-16,264416
+Arizona,,2021-02-17,267967
+Arizona,,2021-02-18,283955
+Arizona,,2021-02-19,335248
+Arizona,,2021-02-20,356055
+Arizona,,2021-02-21,376371
+Arizona,,2021-02-22,392139
+Arizona,,2021-02-23,398472
+Arizona,,2021-02-24,412825
+Arizona,,2021-02-25,438355
+Arizona,,2021-02-26,468913
+Arizona,,2021-02-27,498106
+Arizona,,2021-02-28,535189
+Arizona,,2021-03-01,566500
+Arizona,,2021-03-02,587451
+Arizona,,2021-03-03,613681
+Arizona,,2021-03-04,640078
+Arizona,,2021-03-05,671617
+Arizona,,2021-03-06,674523
+Arizona,,2021-03-07,729803
+Arizona,,2021-03-08,738410
+Arizona,,2021-03-09,750217
+Arkansas,,2021-01-12,8
+Arkansas,,2021-01-13,12849
+Arkansas,,2021-01-15,18781
+Arkansas,,2021-01-19,21734
+Arkansas,,2021-01-20,26541
+Arkansas,,2021-01-21,26541
+Arkansas,,2021-01-22,31600
+Arkansas,,2021-01-23,31600
+Arkansas,,2021-01-24,32572
+Arkansas,,2021-01-25,33159
+Arkansas,,2021-01-26,37055
+Arkansas,,2021-01-27,40910
+Arkansas,,2021-01-28,40910
+Arkansas,,2021-01-29,45918
+Arkansas,,2021-01-30,52118
+Arkansas,,2021-01-31,56264
+Arkansas,,2021-02-01,58613
+Arkansas,,2021-02-02,59903
+Arkansas,,2021-02-03,63356
+Arkansas,,2021-02-04,68778
+Arkansas,,2021-02-05,73810
+Arkansas,,2021-02-06,81564
+Arkansas,,2021-02-07,90308
+Arkansas,,2021-02-08,94058
+Arkansas,,2021-02-09,95202
+Arkansas,,2021-02-10,103669
+Arkansas,,2021-02-11,110751
+Arkansas,,2021-02-12,118465
+Arkansas,,2021-02-13,124040
+Arkansas,,2021-02-14,130637
+Arkansas,,2021-02-16,136415
+Arkansas,,2021-02-17,138254
+Arkansas,,2021-02-18,140662
+Arkansas,,2021-02-19,150812
+Arkansas,,2021-02-20,152675
+Arkansas,,2021-02-21,157511
+Arkansas,,2021-02-22,161470
+Arkansas,,2021-02-23,163848
+Arkansas,,2021-02-24,172653
+Arkansas,,2021-02-25,184346
+Arkansas,,2021-02-26,200253
+Arkansas,,2021-02-27,213974
+Arkansas,,2021-02-28,226968
+Arkansas,,2021-03-01,233135
+Arkansas,,2021-03-02,236154
+Arkansas,,2021-03-03,242346
+Arkansas,,2021-03-04,249244
+Arkansas,,2021-03-05,256589
+Arkansas,,2021-03-06,264478
+Arkansas,,2021-03-07,273608
+Arkansas,,2021-03-08,277217
+Arkansas,,2021-03-09,279815
+Bureau of Prisons,,2021-01-12,1077
+Bureau of Prisons,,2021-01-13,1077
+Bureau of Prisons,,2021-01-15,2086
+Bureau of Prisons,,2021-01-19,2091
+Bureau of Prisons,,2021-01-20,3092
+Bureau of Prisons,,2021-01-21,3800
+Bureau of Prisons,,2021-01-22,3962
+Bureau of Prisons,,2021-01-23,4977
+Bureau of Prisons,,2021-01-24,5044
+Bureau of Prisons,,2021-01-25,5301
+Bureau of Prisons,,2021-01-26,5971
+Bureau of Prisons,,2021-01-27,6846
+Bureau of Prisons,,2021-01-28,7368
+Bureau of Prisons,,2021-01-29,8011
+Bureau of Prisons,,2021-01-30,8389
+Bureau of Prisons,,2021-01-31,8490
+Bureau of Prisons,,2021-02-01,8490
+Bureau of Prisons,,2021-02-02,9079
+Bureau of Prisons,,2021-02-03,10130
+Bureau of Prisons,,2021-02-04,11259
+Bureau of Prisons,,2021-02-05,12426
+Bureau of Prisons,,2021-02-06,13362
+Bureau of Prisons,,2021-02-07,13826
+Bureau of Prisons,,2021-02-08,13826
+Bureau of Prisons,,2021-02-09,14173
+Bureau of Prisons,,2021-02-10,15085
+Bureau of Prisons,,2021-02-11,15931
+Bureau of Prisons,,2021-02-12,16449
+Bureau of Prisons,,2021-02-13,17017
+Bureau of Prisons,,2021-02-14,17256
+Bureau of Prisons,,2021-02-16,17256
+Bureau of Prisons,,2021-02-17,17598
+Bureau of Prisons,,2021-02-18,17789
+Bureau of Prisons,,2021-02-19,18276
+Bureau of Prisons,,2021-02-20,18879
+Bureau of Prisons,,2021-02-21,19556
+Bureau of Prisons,,2021-02-22,19637
+Bureau of Prisons,,2021-02-23,19996
+Bureau of Prisons,,2021-02-24,20628
+Bureau of Prisons,,2021-02-25,21439
+Bureau of Prisons,,2021-02-26,22339
+Bureau of Prisons,,2021-02-27,22939
+Bureau of Prisons,,2021-02-28,23057
+Bureau of Prisons,,2021-03-01,23057
+Bureau of Prisons,,2021-03-02,23532
+Bureau of Prisons,,2021-03-03,24513
+Bureau of Prisons,,2021-03-04,25853
+Bureau of Prisons,,2021-03-05,27041
+Bureau of Prisons,,2021-03-06,27625
+Bureau of Prisons,,2021-03-07,27841
+Bureau of Prisons,,2021-03-08,27841
+Bureau of Prisons,,2021-03-09,28141
+California,,2021-01-12,100089
+California,,2021-01-13,133689
+California,,2021-01-15,204374
+California,,2021-01-19,260838
+California,,2021-01-20,273276
+California,,2021-01-21,293834
+California,,2021-01-22,321839
+California,,2021-01-23,341731
+California,,2021-01-24,356382
+California,,2021-01-25,371482
+California,,2021-01-26,387563
+California,,2021-01-27,417606
+California,,2021-01-28,458585
+California,,2021-01-29,487552
+California,,2021-01-30,524350
+California,,2021-01-31,558977
+California,,2021-02-01,581985
+California,,2021-02-02,592045
+California,,2021-02-03,613845
+California,,2021-02-04,625189
+California,,2021-02-05,675027
+California,,2021-02-06,727993
+California,,2021-02-07,808832
+California,,2021-02-08,847993
+California,,2021-02-09,875340
+California,,2021-02-10,928615
+California,,2021-02-11,990128
+California,,2021-02-12,1081040
+California,,2021-02-13,1178577
+California,,2021-02-14,1287390
+California,,2021-02-16,1456222
+California,,2021-02-17,1507829
+California,,2021-02-18,1581541
+California,,2021-02-19,1753917
+California,,2021-02-20,1864867
+California,,2021-02-21,1974488
+California,,2021-02-22,2048326
+California,,2021-02-23,2105613
+California,,2021-02-24,2173394
+California,,2021-02-25,2263406
+California,,2021-02-26,2384283
+California,,2021-02-27,2506318
+California,,2021-02-28,2613260
+California,,2021-03-01,2744770
+California,,2021-03-02,2905711
+California,,2021-03-03,2997721
+California,,2021-03-04,3047327
+California,,2021-03-05,3128908
+California,,2021-03-06,3263993
+California,,2021-03-07,3352223
+California,,2021-03-08,3406971
+California,,2021-03-09,3444791
+Colorado,,2021-01-12,36425
+Colorado,,2021-01-13,41271
+Colorado,,2021-01-15,47021
+Colorado,,2021-01-19,49897
+Colorado,,2021-01-20,51460
+Colorado,,2021-01-21,54474
+Colorado,,2021-01-22,62086
+Colorado,,2021-01-23,62086
+Colorado,,2021-01-24,76902
+Colorado,,2021-01-25,80467
+Colorado,,2021-01-26,82946
+Colorado,,2021-01-27,90200
+Colorado,,2021-01-28,98663
+Colorado,,2021-01-29,108507
+Colorado,,2021-01-30,118770
+Colorado,,2021-01-31,125078
+Colorado,,2021-02-01,130738
+Colorado,,2021-02-02,132752
+Colorado,,2021-02-03,140610
+Colorado,,2021-02-04,149829
+Colorado,,2021-02-05,162511
+Colorado,,2021-02-06,178975
+Colorado,,2021-02-07,197523
+Colorado,,2021-02-08,207951
+Colorado,,2021-02-09,211328
+Colorado,,2021-02-10,225626
+Colorado,,2021-02-11,239804
+Colorado,,2021-02-12,254037
+Colorado,,2021-02-13,271661
+Colorado,,2021-02-14,290991
+Colorado,,2021-02-16,308992
+Colorado,,2021-02-17,314557
+Colorado,,2021-02-18,322769
+Colorado,,2021-02-19,345623
+Colorado,,2021-02-20,360392
+Colorado,,2021-02-21,378242
+Colorado,,2021-02-22,392925
+Colorado,,2021-02-23,393719
+Colorado,,2021-02-24,413803
+Colorado,,2021-02-25,426938
+Colorado,,2021-02-26,439634
+Colorado,,2021-02-27,440500
+Colorado,,2021-02-28,462155
+Colorado,,2021-03-01,479662
+Colorado,,2021-03-02,484907
+Colorado,,2021-03-03,499066
+Colorado,,2021-03-04,513187
+Colorado,,2021-03-05,526306
+Colorado,,2021-03-06,549267
+Colorado,,2021-03-07,567689
+Colorado,,2021-03-08,571975
+Colorado,,2021-03-09,584872
+Connecticut,,2021-01-12,4174
+Connecticut,,2021-01-13,5268
+Connecticut,,2021-01-15,17162
+Connecticut,,2021-01-19,23150
+Connecticut,,2021-01-20,25018
+Connecticut,,2021-01-21,28602
+Connecticut,,2021-01-22,33149
+Connecticut,,2021-01-23,37098
+Connecticut,,2021-01-24,40506
+Connecticut,,2021-01-25,42421
+Connecticut,,2021-01-26,45190
+Connecticut,,2021-01-27,51939
+Connecticut,,2021-01-28,59437
+Connecticut,,2021-01-29,67624
+Connecticut,,2021-01-30,73706
+Connecticut,,2021-01-31,79511
+Connecticut,,2021-02-01,83855
+Connecticut,,2021-02-02,86602
+Connecticut,,2021-02-03,90574
+Connecticut,,2021-02-04,97568
+Connecticut,,2021-02-05,106224
+Connecticut,,2021-02-06,115349
+Connecticut,,2021-02-07,123198
+Connecticut,,2021-02-08,127194
+Connecticut,,2021-02-09,133196
+Connecticut,,2021-02-10,142918
+Connecticut,,2021-02-11,154639
+Connecticut,,2021-02-12,167894
+Connecticut,,2021-02-13,183146
+Connecticut,,2021-02-14,191978
+Connecticut,,2021-02-16,206920
+Connecticut,,2021-02-17,218777
+Connecticut,,2021-02-18,231795
+Connecticut,,2021-02-19,253770
+Connecticut,,2021-02-20,265343
+Connecticut,,2021-02-21,270792
+Connecticut,,2021-02-22,277009
+Connecticut,,2021-02-23,279804
+Connecticut,,2021-02-24,283211
+Connecticut,,2021-02-25,285804
+Connecticut,,2021-02-26,290698
+Connecticut,,2021-02-27,295458
+Connecticut,,2021-02-28,300264
+Connecticut,,2021-03-01,305226
+Connecticut,,2021-03-02,306894
+Connecticut,,2021-03-03,310667
+Connecticut,,2021-03-04,313603
+Connecticut,,2021-03-05,316991
+Connecticut,,2021-03-06,320257
+Connecticut,,2021-03-07,324448
+Connecticut,,2021-03-08,340912
+Connecticut,,2021-03-09,345611
+Delaware,,2021-01-12,2784
+Delaware,,2021-01-13,4050
+Delaware,,2021-01-15,5354
+Delaware,,2021-01-19,6768
+Delaware,,2021-01-20,6919
+Delaware,,2021-01-21,7355
+Delaware,,2021-01-22,8847
+Delaware,,2021-01-23,10448
+Delaware,,2021-01-24,11464
+Delaware,,2021-01-25,11647
+Delaware,,2021-01-26,11724
+Delaware,,2021-01-27,12352
+Delaware,,2021-01-28,13121
+Delaware,,2021-01-29,14210
+Delaware,,2021-01-30,14956
+Delaware,,2021-01-31,16397
+Delaware,,2021-02-01,17628
+Delaware,,2021-02-02,18040
+Delaware,,2021-02-03,18568
+Delaware,,2021-02-04,20394
+Delaware,,2021-02-05,21264
+Delaware,,2021-02-06,22791
+Delaware,,2021-02-07,24245
+Delaware,,2021-02-08,25179
+Delaware,,2021-02-09,25405
+Delaware,,2021-02-10,26054
+Delaware,,2021-02-11,26864
+Delaware,,2021-02-12,27742
+Delaware,,2021-02-13,29423
+Delaware,,2021-02-14,31095
+Delaware,,2021-02-16,34002
+Delaware,,2021-02-17,35601
+Delaware,,2021-02-18,37499
+Delaware,,2021-02-19,43614
+Delaware,,2021-02-20,46527
+Delaware,,2021-02-21,46803
+Delaware,,2021-02-22,48311
+Delaware,,2021-02-23,50546
+Delaware,,2021-02-24,53019
+Delaware,,2021-02-25,56790
+Delaware,,2021-02-26,61985
+Delaware,,2021-02-27,67915
+Delaware,,2021-02-28,71482
+Delaware,,2021-03-01,75909
+Delaware,,2021-03-02,75946
+Delaware,,2021-03-03,83782
+Delaware,,2021-03-04,87485
+Delaware,,2021-03-05,92003
+Delaware,,2021-03-06,96374
+Delaware,,2021-03-07,100801
+Delaware,,2021-03-08,100543
+Delaware,,2021-03-09,103622
+Dept of Defense,,2021-01-12,8383
+Dept of Defense,,2021-01-13,8383
+Dept of Defense,,2021-01-15,17946
+Dept of Defense,,2021-01-19,21753
+Dept of Defense,,2021-01-20,22157
+Dept of Defense,,2021-01-21,25429
+Dept of Defense,,2021-01-22,28602
+Dept of Defense,,2021-01-23,31730
+Dept of Defense,,2021-01-24,34204
+Dept of Defense,,2021-01-25,35570
+Dept of Defense,,2021-01-26,35570
+Dept of Defense,,2021-01-27,40396
+Dept of Defense,,2021-01-28,46561
+Dept of Defense,,2021-01-29,53084
+Dept of Defense,,2021-01-30,59440
+Dept of Defense,,2021-01-31,67235
+Dept of Defense,,2021-02-01,67913
+Dept of Defense,,2021-02-02,68278
+Dept of Defense,,2021-02-03,75347
+Dept of Defense,,2021-02-04,85122
+Dept of Defense,,2021-02-05,97352
+Dept of Defense,,2021-02-06,111028
+Dept of Defense,,2021-02-07,125455
+Dept of Defense,,2021-02-08,127265
+Dept of Defense,,2021-02-09,128690
+Dept of Defense,,2021-02-10,135576
+Dept of Defense,,2021-02-11,144383
+Dept of Defense,,2021-02-12,154958
+Dept of Defense,,2021-02-13,167889
+Dept of Defense,,2021-02-14,179425
+Dept of Defense,,2021-02-16,180770
+Dept of Defense,,2021-02-17,181856
+Dept of Defense,,2021-02-18,200272
+Dept of Defense,,2021-02-19,209531
+Dept of Defense,,2021-02-20,219173
+Dept of Defense,,2021-02-21,233595
+Dept of Defense,,2021-02-22,237626
+Dept of Defense,,2021-02-23,238976
+Dept of Defense,,2021-02-24,249659
+Dept of Defense,,2021-02-25,260819
+Dept of Defense,,2021-02-26,272456
+Dept of Defense,,2021-02-27,286109
+Dept of Defense,,2021-02-28,303314
+Dept of Defense,,2021-03-01,304072
+Dept of Defense,,2021-03-02,304656
+Dept of Defense,,2021-03-03,312894
+Dept of Defense,,2021-03-04,322651
+Dept of Defense,,2021-03-05,333385
+Dept of Defense,,2021-03-06,345622
+Dept of Defense,,2021-03-07,361473
+Dept of Defense,,2021-03-08,365443
+Dept of Defense,,2021-03-09,436245
+District of Columbia,,2021-01-13,1275
+District of Columbia,,2021-01-15,8250
+District of Columbia,,2021-01-19,10196
+District of Columbia,,2021-01-20,10553
+District of Columbia,,2021-01-21,11685
+District of Columbia,,2021-01-22,12045
+District of Columbia,,2021-01-23,12649
+District of Columbia,,2021-01-24,13043
+District of Columbia,,2021-01-25,13236
+District of Columbia,,2021-01-26,13293
+District of Columbia,,2021-01-27,14434
+District of Columbia,,2021-01-28,15177
+District of Columbia,,2021-01-29,16112
+District of Columbia,,2021-01-30,17029
+District of Columbia,,2021-01-31,18710
+District of Columbia,,2021-02-01,19217
+District of Columbia,,2021-02-02,19218
+District of Columbia,,2021-02-03,19753
+District of Columbia,,2021-02-04,21313
+District of Columbia,,2021-02-05,22719
+District of Columbia,,2021-02-06,24069
+District of Columbia,,2021-02-07,26151
+District of Columbia,,2021-02-08,26957
+District of Columbia,,2021-02-09,26957
+District of Columbia,,2021-02-10,26957
+District of Columbia,,2021-02-11,31786
+District of Columbia,,2021-02-12,33167
+District of Columbia,,2021-02-13,34388
+District of Columbia,,2021-02-14,36388
+District of Columbia,,2021-02-16,39060
+District of Columbia,,2021-02-17,39973
+District of Columbia,,2021-02-18,41311
+District of Columbia,,2021-02-19,50145
+District of Columbia,,2021-02-20,51565
+District of Columbia,,2021-02-21,53244
+District of Columbia,,2021-02-22,54187
+District of Columbia,,2021-02-23,55413
+District of Columbia,,2021-02-24,56711
+District of Columbia,,2021-02-25,58201
+District of Columbia,,2021-02-26,59551
+District of Columbia,,2021-02-27,63706
+District of Columbia,,2021-02-28,66481
+District of Columbia,,2021-03-01,68370
+District of Columbia,,2021-03-02,68955
+District of Columbia,,2021-03-03,70091
+District of Columbia,,2021-03-04,71591
+District of Columbia,,2021-03-05,73279
+District of Columbia,,2021-03-06,79089
+District of Columbia,,2021-03-07,80744
+District of Columbia,,2021-03-08,51723
+District of Columbia,,2021-03-09,52813
+Federated States of Micronesia,,2021-01-15,2
+Federated States of Micronesia,,2021-01-19,2
+Federated States of Micronesia,,2021-01-20,3
+Federated States of Micronesia,,2021-01-21,3
+Federated States of Micronesia,,2021-01-22,3
+Federated States of Micronesia,,2021-01-23,3
+Federated States of Micronesia,,2021-01-24,3
+Federated States of Micronesia,,2021-01-25,3
+Federated States of Micronesia,,2021-01-26,4
+Federated States of Micronesia,,2021-01-27,4
+Federated States of Micronesia,,2021-01-28,4
+Federated States of Micronesia,,2021-01-29,5
+Federated States of Micronesia,,2021-01-30,5
+Federated States of Micronesia,,2021-01-31,5
+Federated States of Micronesia,,2021-02-01,15
+Federated States of Micronesia,,2021-02-02,16
+Federated States of Micronesia,,2021-02-03,17
+Federated States of Micronesia,,2021-02-04,26
+Federated States of Micronesia,,2021-02-05,35
+Federated States of Micronesia,,2021-02-06,78
+Federated States of Micronesia,,2021-02-07,79
+Federated States of Micronesia,,2021-02-08,112
+Federated States of Micronesia,,2021-02-09,148
+Federated States of Micronesia,,2021-02-10,246
+Federated States of Micronesia,,2021-02-11,346
+Federated States of Micronesia,,2021-02-12,453
+Federated States of Micronesia,,2021-02-13,767
+Federated States of Micronesia,,2021-02-14,886
+Federated States of Micronesia,,2021-02-16,1121
+Federated States of Micronesia,,2021-02-17,1449
+Federated States of Micronesia,,2021-02-18,1761
+Federated States of Micronesia,,2021-02-19,2070
+Federated States of Micronesia,,2021-02-20,2070
+Federated States of Micronesia,,2021-02-21,2425
+Federated States of Micronesia,,2021-02-22,2425
+Federated States of Micronesia,,2021-02-23,2425
+Federated States of Micronesia,,2021-02-24,2844
+Federated States of Micronesia,,2021-02-25,3018
+Federated States of Micronesia,,2021-02-26,3411
+Federated States of Micronesia,,2021-02-27,3726
+Federated States of Micronesia,,2021-02-28,4103
+Federated States of Micronesia,,2021-03-01,4403
+Federated States of Micronesia,,2021-03-02,4921
+Federated States of Micronesia,,2021-03-03,5317
+Federated States of Micronesia,,2021-03-04,5658
+Federated States of Micronesia,,2021-03-05,5979
+Federated States of Micronesia,,2021-03-06,6343
+Federated States of Micronesia,,2021-03-07,6394
+Federated States of Micronesia,,2021-03-08,6425
+Federated States of Micronesia,,2021-03-09,6670
+Florida,,2021-01-12,41725
+Florida,,2021-01-13,52969
+Florida,,2021-01-15,74776
+Florida,,2021-01-19,103173
+Florida,,2021-01-20,111763
+Florida,,2021-01-21,111763
+Florida,,2021-01-22,124582
+Florida,,2021-01-23,152209
+Florida,,2021-01-24,156226
+Florida,,2021-01-25,156298
+Florida,,2021-01-26,158886
+Florida,,2021-01-27,176671
+Florida,,2021-01-28,204623
+Florida,,2021-01-29,236834
+Florida,,2021-01-30,274211
+Florida,,2021-01-31,297584
+Florida,,2021-02-01,315392
+Florida,,2021-02-02,329176
+Florida,,2021-02-03,373238
+Florida,,2021-02-04,422482
+Florida,,2021-02-05,440172
+Florida,,2021-02-06,512064
+Florida,,2021-02-07,629556
+Florida,,2021-02-08,629556
+Florida,,2021-02-09,694637
+Florida,,2021-02-10,756678
+Florida,,2021-02-11,823514
+Florida,,2021-02-12,962465
+Florida,,2021-02-13,1028266
+Florida,,2021-02-14,1082096
+Florida,,2021-02-16,1134793
+Florida,,2021-02-17,1180757
+Florida,,2021-02-18,1231696
+Florida,,2021-02-19,1378573
+Florida,,2021-02-20,1382923
+Florida,,2021-02-21,1481148
+Florida,,2021-02-22,1482708
+Florida,,2021-02-23,1492758
+Florida,,2021-02-24,1535864
+Florida,,2021-02-25,1590721
+Florida,,2021-02-26,1640330
+Florida,,2021-02-27,1693485
+Florida,,2021-02-28,1787164
+Florida,,2021-03-01,1787511
+Florida,,2021-03-02,1799607
+Florida,,2021-03-03,1833883
+Florida,,2021-03-04,1886028
+Florida,,2021-03-05,1929985
+Florida,,2021-03-06,2006907
+Florida,,2021-03-07,2074589
+Florida,,2021-03-08,2055838
+Florida,,2021-03-09,2074763
+Georgia,GEO,2021-01-12,7746
+Georgia,GEO,2021-01-13,8937
+Georgia,GEO,2021-01-15,22324
+Georgia,GEO,2021-01-19,28907
+Georgia,GEO,2021-01-20,35029
+Georgia,GEO,2021-01-21,39972
+Georgia,GEO,2021-01-22,59925
+Georgia,GEO,2021-01-23,59965
+Georgia,GEO,2021-01-24,59965
+Georgia,GEO,2021-01-25,59965
+Georgia,GEO,2021-01-26,64989
+Georgia,GEO,2021-01-27,75360
+Georgia,GEO,2021-01-28,89305
+Georgia,GEO,2021-01-29,99941
+Georgia,GEO,2021-01-30,109311
+Georgia,GEO,2021-01-31,119878
+Georgia,GEO,2021-02-01,125548
+Georgia,GEO,2021-02-02,129885
+Georgia,GEO,2021-02-03,140900
+Georgia,GEO,2021-02-04,152626
+Georgia,GEO,2021-02-05,169163
+Georgia,GEO,2021-02-06,188736
+Georgia,GEO,2021-02-07,210237
+Georgia,GEO,2021-02-08,219840
+Georgia,GEO,2021-02-09,227997
+Georgia,GEO,2021-02-10,251946
+Georgia,GEO,2021-02-11,279546
+Georgia,GEO,2021-02-12,279546
+Georgia,GEO,2021-02-13,313961
+Georgia,GEO,2021-02-14,380394
+Georgia,GEO,2021-02-16,402578
+Georgia,GEO,2021-02-17,402578
+Georgia,GEO,2021-02-18,462570
+Georgia,GEO,2021-02-19,527556
+Georgia,GEO,2021-02-20,568299
+Georgia,GEO,2021-02-21,609520
+Georgia,GEO,2021-02-22,623795
+Georgia,GEO,2021-02-23,627968
+Georgia,GEO,2021-02-24,653286
+Georgia,GEO,2021-02-25,678886
+Georgia,GEO,2021-02-26,710086
+Georgia,GEO,2021-02-27,745853
+Georgia,GEO,2021-02-28,747388
+Georgia,GEO,2021-03-01,747398
+Georgia,GEO,2021-03-02,750985
+Georgia,GEO,2021-03-03,780276
+Georgia,GEO,2021-03-04,810091
+Georgia,GEO,2021-03-05,847033
+Georgia,GEO,2021-03-06,872270
+Georgia,GEO,2021-03-07,899669
+Georgia,GEO,2021-03-08,904207
+Georgia,GEO,2021-03-09,910623
+Guam,GUM,2021-01-26,3803
+Guam,GUM,2021-01-27,3869
+Guam,GUM,2021-01-28,3969
+Guam,GUM,2021-01-29,4358
+Guam,GUM,2021-01-30,4499
+Guam,GUM,2021-01-31,4499
+Guam,GUM,2021-02-01,4736
+Guam,GUM,2021-02-02,4936
+Guam,GUM,2021-02-03,5108
+Guam,GUM,2021-02-04,5108
+Guam,GUM,2021-02-05,5321
+Guam,GUM,2021-02-06,5581
+Guam,GUM,2021-02-07,5820
+Guam,GUM,2021-02-08,5838
+Guam,GUM,2021-02-09,6260
+Guam,GUM,2021-02-10,6873
+Guam,GUM,2021-02-11,7711
+Guam,GUM,2021-02-12,8955
+Guam,GUM,2021-02-13,10117
+Guam,GUM,2021-02-14,10688
+Guam,GUM,2021-02-16,11266
+Guam,GUM,2021-02-17,12251
+Guam,GUM,2021-02-18,13311
+Guam,GUM,2021-02-19,15150
+Guam,GUM,2021-02-20,16104
+Guam,GUM,2021-02-21,16121
+Guam,GUM,2021-02-22,16865
+Guam,GUM,2021-02-23,17341
+Guam,GUM,2021-02-24,17969
+Guam,GUM,2021-02-25,18615
+Guam,GUM,2021-02-26,18635
+Guam,GUM,2021-02-27,19542
+Guam,GUM,2021-02-28,20227
+Guam,GUM,2021-03-01,20267
+Guam,GUM,2021-03-02,20371
+Guam,GUM,2021-03-03,20385
+Guam,GUM,2021-03-04,20686
+Guam,GUM,2021-03-05,20827
+Guam,GUM,2021-03-06,20853
+Guam,GUM,2021-03-07,20854
+Guam,GUM,2021-03-08,20924
+Guam,GUM,2021-03-09,22200
+Hawaii,,2021-01-15,7268
+Hawaii,,2021-01-19,11319
+Hawaii,,2021-01-20,13833
+Hawaii,,2021-01-21,16132
+Hawaii,,2021-01-22,16802
+Hawaii,,2021-01-23,16802
+Hawaii,,2021-01-24,16802
+Hawaii,,2021-01-25,17795
+Hawaii,,2021-01-26,17939
+Hawaii,,2021-01-27,18544
+Hawaii,,2021-01-28,19804
+Hawaii,,2021-01-29,21736
+Hawaii,,2021-01-30,23758
+Hawaii,,2021-01-31,25868
+Hawaii,,2021-02-01,27090
+Hawaii,,2021-02-02,27156
+Hawaii,,2021-02-03,28245
+Hawaii,,2021-02-04,30573
+Hawaii,,2021-02-05,33726
+Hawaii,,2021-02-06,37054
+Hawaii,,2021-02-07,40514
+Hawaii,,2021-02-08,42472
+Hawaii,,2021-02-09,42472
+Hawaii,,2021-02-10,42472
+Hawaii,,2021-02-11,49969
+Hawaii,,2021-02-12,53976
+Hawaii,,2021-02-13,58194
+Hawaii,,2021-02-14,62239
+Hawaii,,2021-02-16,68688
+Hawaii,,2021-02-17,69799
+Hawaii,,2021-02-18,73236
+Hawaii,,2021-02-19,90892
+Hawaii,,2021-02-20,96971
+Hawaii,,2021-02-21,102818
+Hawaii,,2021-02-22,107267
+Hawaii,,2021-02-23,108525
+Hawaii,,2021-02-24,112487
+Hawaii,,2021-02-25,117019
+Hawaii,,2021-02-26,122521
+Hawaii,,2021-02-27,129131
+Hawaii,,2021-02-28,136218
+Hawaii,,2021-03-01,140469
+Hawaii,,2021-03-02,142855
+Hawaii,,2021-03-03,147043
+Hawaii,,2021-03-04,153655
+Hawaii,,2021-03-05,158777
+Hawaii,,2021-03-06,164636
+Hawaii,,2021-03-07,165707
+Hawaii,,2021-03-08,174927
+Hawaii,,2021-03-09,179965
+Idaho,,2021-01-12,4308
+Idaho,,2021-01-13,5653
+Idaho,,2021-01-15,8843
+Idaho,,2021-01-19,10165
+Idaho,,2021-01-20,10738
+Idaho,,2021-01-21,11760
+Idaho,,2021-01-22,13075
+Idaho,,2021-01-23,13711
+Idaho,,2021-01-24,14059
+Idaho,,2021-01-25,14419
+Idaho,,2021-01-26,14627
+Idaho,,2021-01-27,15443
+Idaho,,2021-01-28,16724
+Idaho,,2021-01-29,18970
+Idaho,,2021-01-30,20148
+Idaho,,2021-01-31,21636
+Idaho,,2021-02-01,22468
+Idaho,,2021-02-02,22725
+Idaho,,2021-02-03,24171
+Idaho,,2021-02-04,26345
+Idaho,,2021-02-05,28970
+Idaho,,2021-02-06,32011
+Idaho,,2021-02-07,34322
+Idaho,,2021-02-08,35910
+Idaho,,2021-02-09,37002
+Idaho,,2021-02-10,39608
+Idaho,,2021-02-11,43231
+Idaho,,2021-02-12,43231
+Idaho,,2021-02-13,46516
+Idaho,,2021-02-14,56629
+Idaho,,2021-02-16,64687
+Idaho,,2021-02-17,67805
+Idaho,,2021-02-18,71408
+Idaho,,2021-02-19,81497
+Idaho,,2021-02-20,85566
+Idaho,,2021-02-21,92265
+Idaho,,2021-02-22,97370
+Idaho,,2021-02-23,99518
+Idaho,,2021-02-24,103129
+Idaho,,2021-02-25,109348
+Idaho,,2021-02-26,114807
+Idaho,,2021-02-27,119776
+Idaho,,2021-02-28,126208
+Idaho,,2021-03-01,131312
+Idaho,,2021-03-02,133917
+Idaho,,2021-03-03,138642
+Idaho,,2021-03-04,143369
+Idaho,,2021-03-05,150186
+Idaho,,2021-03-06,157533
+Idaho,,2021-03-07,164500
+Idaho,,2021-03-08,174479
+Idaho,,2021-03-09,178260
+Illinois,,2021-01-12,62757
+Illinois,,2021-01-13,74186
+Illinois,,2021-01-15,91248
+Illinois,,2021-01-19,104533
+Illinois,,2021-01-20,107651
+Illinois,,2021-01-21,111933
+Illinois,,2021-01-22,120754
+Illinois,,2021-01-23,128907
+Illinois,,2021-01-24,135330
+Illinois,,2021-01-25,137465
+Illinois,,2021-01-26,140394
+Illinois,,2021-01-27,147925
+Illinois,,2021-01-28,162086
+Illinois,,2021-01-29,181063
+Illinois,,2021-01-30,197643
+Illinois,,2021-01-31,211528
+Illinois,,2021-02-01,219095
+Illinois,,2021-02-02,223026
+Illinois,,2021-02-03,230850
+Illinois,,2021-02-04,247763
+Illinois,,2021-02-05,260248
+Illinois,,2021-02-06,275276
+Illinois,,2021-02-07,288458
+Illinois,,2021-02-08,299201
+Illinois,,2021-02-09,302923
+Illinois,,2021-02-10,314687
+Illinois,,2021-02-11,330108
+Illinois,,2021-02-12,348826
+Illinois,,2021-02-13,375992
+Illinois,,2021-02-14,400340
+Illinois,,2021-02-16,422981
+Illinois,,2021-02-17,431310
+Illinois,,2021-02-18,446598
+Illinois,,2021-02-19,492551
+Illinois,,2021-02-20,527382
+Illinois,,2021-02-21,560403
+Illinois,,2021-02-22,566994
+Illinois,,2021-02-23,591312
+Illinois,,2021-02-24,611324
+Illinois,,2021-02-25,639901
+Illinois,,2021-02-26,691102
+Illinois,,2021-02-27,744792
+Illinois,,2021-02-28,792853
+Illinois,,2021-03-01,834142
+Illinois,,2021-03-02,854802
+Illinois,,2021-03-03,884810
+Illinois,,2021-03-04,925816
+Illinois,,2021-03-05,971371
+Illinois,,2021-03-06,1036845
+Illinois,,2021-03-07,1094967
+Illinois,,2021-03-08,1153941
+Illinois,,2021-03-09,1166993
+Indian Health Svc,,2021-01-12,236
+Indian Health Svc,,2021-01-13,323
+Indian Health Svc,,2021-01-15,12730
+Indian Health Svc,,2021-01-19,13348
+Indian Health Svc,,2021-01-20,14874
+Indian Health Svc,,2021-01-21,17778
+Indian Health Svc,,2021-01-22,18985
+Indian Health Svc,,2021-01-23,21677
+Indian Health Svc,,2021-01-24,23643
+Indian Health Svc,,2021-01-25,24145
+Indian Health Svc,,2021-01-26,25502
+Indian Health Svc,,2021-01-27,28995
+Indian Health Svc,,2021-01-28,33645
+Indian Health Svc,,2021-01-29,36548
+Indian Health Svc,,2021-01-30,37890
+Indian Health Svc,,2021-01-31,40602
+Indian Health Svc,,2021-02-01,40917
+Indian Health Svc,,2021-02-02,42503
+Indian Health Svc,,2021-02-03,45751
+Indian Health Svc,,2021-02-04,52748
+Indian Health Svc,,2021-02-05,54966
+Indian Health Svc,,2021-02-06,67885
+Indian Health Svc,,2021-02-07,69477
+Indian Health Svc,,2021-02-08,72334
+Indian Health Svc,,2021-02-09,73708
+Indian Health Svc,,2021-02-10,77250
+Indian Health Svc,,2021-02-11,83614
+Indian Health Svc,,2021-02-12,90005
+Indian Health Svc,,2021-02-13,95032
+Indian Health Svc,,2021-02-14,99411
+Indian Health Svc,,2021-02-16,100756
+Indian Health Svc,,2021-02-17,102592
+Indian Health Svc,,2021-02-18,106026
+Indian Health Svc,,2021-02-19,108364
+Indian Health Svc,,2021-02-20,110670
+Indian Health Svc,,2021-02-21,115147
+Indian Health Svc,,2021-02-22,121574
+Indian Health Svc,,2021-02-23,126117
+Indian Health Svc,,2021-02-24,131359
+Indian Health Svc,,2021-02-25,139832
+Indian Health Svc,,2021-02-26,152234
+Indian Health Svc,,2021-02-27,161105
+Indian Health Svc,,2021-02-28,167073
+Indian Health Svc,,2021-03-01,174607
+Indian Health Svc,,2021-03-02,179169
+Indian Health Svc,,2021-03-03,184195
+Indian Health Svc,,2021-03-04,190131
+Indian Health Svc,,2021-03-05,198047
+Indian Health Svc,,2021-03-06,209045
+Indian Health Svc,,2021-03-07,214322
+Indian Health Svc,,2021-03-08,220205
+Indian Health Svc,,2021-03-09,221461
+Indiana,,2021-01-12,23546
+Indiana,,2021-01-13,32040
+Indiana,,2021-01-15,37683
+Indiana,,2021-01-19,50862
+Indiana,,2021-01-20,58616
+Indiana,,2021-01-21,66801
+Indiana,,2021-01-22,73986
+Indiana,,2021-01-23,77985
+Indiana,,2021-01-24,77985
+Indiana,,2021-01-25,83554
+Indiana,,2021-01-26,84719
+Indiana,,2021-01-27,91255
+Indiana,,2021-01-28,97614
+Indiana,,2021-01-29,105208
+Indiana,,2021-01-30,111233
+Indiana,,2021-01-31,111233
+Indiana,,2021-02-01,111233
+Indiana,,2021-02-02,112864
+Indiana,,2021-02-03,120352
+Indiana,,2021-02-04,129626
+Indiana,,2021-02-05,142405
+Indiana,,2021-02-06,156083
+Indiana,,2021-02-07,156083
+Indiana,,2021-02-08,156083
+Indiana,,2021-02-09,161879
+Indiana,,2021-02-10,177231
+Indiana,,2021-02-11,194281
+Indiana,,2021-02-12,213259
+Indiana,,2021-02-13,267774
+Indiana,,2021-02-14,287278
+Indiana,,2021-02-16,303183
+Indiana,,2021-02-17,313895
+Indiana,,2021-02-18,320425
+Indiana,,2021-02-19,350440
+Indiana,,2021-02-20,372868
+Indiana,,2021-02-21,393133
+Indiana,,2021-02-22,405490
+Indiana,,2021-02-23,408261
+Indiana,,2021-02-24,442264
+Indiana,,2021-02-25,497544
+Indiana,,2021-02-26,523070
+Indiana,,2021-02-27,547659
+Indiana,,2021-02-28,568495
+Indiana,,2021-03-01,582101
+Indiana,,2021-03-02,586200
+Indiana,,2021-03-03,604449
+Indiana,,2021-03-04,626414
+Indiana,,2021-03-05,651592
+Indiana,,2021-03-06,675987
+Indiana,,2021-03-07,696137
+Indiana,,2021-03-08,716718
+Indiana,,2021-03-09,724015
+Iowa,,2021-01-12,6099
+Iowa,,2021-01-13,9603
+Iowa,,2021-01-15,10742
+Iowa,,2021-01-19,12629
+Iowa,,2021-01-20,13995
+Iowa,,2021-01-21,16860
+Iowa,,2021-01-22,22429
+Iowa,,2021-01-23,26426
+Iowa,,2021-01-24,30949
+Iowa,,2021-01-25,32149
+Iowa,,2021-01-26,32547
+Iowa,,2021-01-27,36067
+Iowa,,2021-01-28,40477
+Iowa,,2021-01-29,46785
+Iowa,,2021-01-30,52324
+Iowa,,2021-01-31,58367
+Iowa,,2021-02-01,60259
+Iowa,,2021-02-02,61085
+Iowa,,2021-02-03,64234
+Iowa,,2021-02-04,69401
+Iowa,,2021-02-05,74252
+Iowa,,2021-02-06,80640
+Iowa,,2021-02-07,87373
+Iowa,,2021-02-08,89506
+Iowa,,2021-02-09,90525
+Iowa,,2021-02-10,95650
+Iowa,,2021-02-11,99986
+Iowa,,2021-02-12,104622
+Iowa,,2021-02-13,109660
+Iowa,,2021-02-14,115407
+Iowa,,2021-02-16,119865
+Iowa,,2021-02-17,122291
+Iowa,,2021-02-18,124111
+Iowa,,2021-02-19,134995
+Iowa,,2021-02-20,141104
+Iowa,,2021-02-21,147615
+Iowa,,2021-02-22,150392
+Iowa,,2021-02-23,151431
+Iowa,,2021-02-24,153214
+Iowa,,2021-02-25,155667
+Iowa,,2021-02-26,160663
+Iowa,,2021-02-27,166554
+Iowa,,2021-02-28,175777
+Iowa,,2021-03-01,185255
+Iowa,,2021-03-02,187234
+Iowa,,2021-03-03,193643
+Iowa,,2021-03-04,202916
+Iowa,,2021-03-05,216336
+Iowa,,2021-03-06,250490
+Iowa,,2021-03-07,271606
+Iowa,,2021-03-08,304688
+Iowa,,2021-03-09,313434
+Kansas,,2021-01-12,9577
+Kansas,,2021-01-13,12470
+Kansas,,2021-01-15,13496
+Kansas,,2021-01-19,15602
+Kansas,,2021-01-20,16013
+Kansas,,2021-01-21,17430
+Kansas,,2021-01-22,19325
+Kansas,,2021-01-23,20883
+Kansas,,2021-01-24,22610
+Kansas,,2021-01-25,23635
+Kansas,,2021-01-26,25349
+Kansas,,2021-01-27,26457
+Kansas,,2021-01-28,31429
+Kansas,,2021-01-29,31482
+Kansas,,2021-01-30,36738
+Kansas,,2021-01-31,39753
+Kansas,,2021-02-01,42297
+Kansas,,2021-02-02,44420
+Kansas,,2021-02-03,47394
+Kansas,,2021-02-04,51322
+Kansas,,2021-02-05,54834
+Kansas,,2021-02-06,60203
+Kansas,,2021-02-07,65559
+Kansas,,2021-02-08,68565
+Kansas,,2021-02-09,70115
+Kansas,,2021-02-10,76561
+Kansas,,2021-02-11,81948
+Kansas,,2021-02-12,86597
+Kansas,,2021-02-13,91577
+Kansas,,2021-02-14,99392
+Kansas,,2021-02-16,102601
+Kansas,,2021-02-17,106249
+Kansas,,2021-02-18,112651
+Kansas,,2021-02-19,128614
+Kansas,,2021-02-20,138765
+Kansas,,2021-02-21,148378
+Kansas,,2021-02-22,151375
+Kansas,,2021-02-23,152471
+Kansas,,2021-02-24,158944
+Kansas,,2021-02-25,164940
+Kansas,,2021-02-26,172744
+Kansas,,2021-02-27,184698
+Kansas,,2021-02-28,196781
+Kansas,,2021-03-01,199266
+Kansas,,2021-03-02,203731
+Kansas,,2021-03-03,210351
+Kansas,,2021-03-04,216611
+Kansas,,2021-03-05,224917
+Kansas,,2021-03-06,233833
+Kansas,,2021-03-07,244055
+Kansas,,2021-03-08,261951
+Kansas,,2021-03-09,265215
+Kentucky,,2021-01-12,6335
+Kentucky,,2021-01-13,7725
+Kentucky,,2021-01-15,10672
+Kentucky,,2021-01-19,12911
+Kentucky,,2021-01-20,13829
+Kentucky,,2021-01-21,15699
+Kentucky,,2021-01-22,22568
+Kentucky,,2021-01-23,25566
+Kentucky,,2021-01-24,29346
+Kentucky,,2021-01-25,30010
+Kentucky,,2021-01-26,30633
+Kentucky,,2021-01-27,36054
+Kentucky,,2021-01-28,43142
+Kentucky,,2021-01-29,52251
+Kentucky,,2021-01-30,59367
+Kentucky,,2021-01-31,64890
+Kentucky,,2021-02-01,66077
+Kentucky,,2021-02-02,66852
+Kentucky,,2021-02-03,73264
+Kentucky,,2021-02-04,81502
+Kentucky,,2021-02-05,93651
+Kentucky,,2021-02-06,108050
+Kentucky,,2021-02-07,122785
+Kentucky,,2021-02-08,127793
+Kentucky,,2021-02-09,129862
+Kentucky,,2021-02-10,139605
+Kentucky,,2021-02-11,151297
+Kentucky,,2021-02-12,165324
+Kentucky,,2021-02-13,172518
+Kentucky,,2021-02-14,187643
+Kentucky,,2021-02-16,198180
+Kentucky,,2021-02-17,202064
+Kentucky,,2021-02-18,205575
+Kentucky,,2021-02-19,228157
+Kentucky,,2021-02-20,236951
+Kentucky,,2021-02-21,253857
+Kentucky,,2021-02-22,262062
+Kentucky,,2021-02-23,268387
+Kentucky,,2021-02-24,279104
+Kentucky,,2021-02-25,294202
+Kentucky,,2021-02-26,309250
+Kentucky,,2021-02-27,321940
+Kentucky,,2021-02-28,341409
+Kentucky,,2021-03-01,351189
+Kentucky,,2021-03-02,354275
+Kentucky,,2021-03-03,362062
+Kentucky,,2021-03-04,375152
+Kentucky,,2021-03-05,390088
+Kentucky,,2021-03-06,405706
+Kentucky,,2021-03-07,423066
+Kentucky,,2021-03-08,443361
+Kentucky,,2021-03-09,448228
+Long Term Care,,2021-01-12,2429
+Long Term Care,,2021-01-13,16900
+Louisiana,,2021-01-12,18314
+Louisiana,,2021-01-13,21634
+Louisiana,,2021-01-15,30416
+Louisiana,,2021-01-19,33967
+Louisiana,,2021-01-20,35049
+Louisiana,,2021-01-21,38095
+Louisiana,,2021-01-22,40385
+Louisiana,,2021-01-23,41788
+Louisiana,,2021-01-24,42520
+Louisiana,,2021-01-25,43151
+Louisiana,,2021-01-26,43189
+Louisiana,,2021-01-27,46954
+Louisiana,,2021-01-28,51583
+Louisiana,,2021-01-29,58132
+Louisiana,,2021-01-30,65136
+Louisiana,,2021-01-31,73436
+Louisiana,,2021-02-01,85872
+Louisiana,,2021-02-02,96606
+Louisiana,,2021-02-03,104070
+Louisiana,,2021-02-04,115629
+Louisiana,,2021-02-05,131355
+Louisiana,,2021-02-06,150219
+Louisiana,,2021-02-07,167576
+Louisiana,,2021-02-08,176580
+Louisiana,,2021-02-09,180112
+Louisiana,,2021-02-10,189574
+Louisiana,,2021-02-11,189574
+Louisiana,,2021-02-12,217681
+Louisiana,,2021-02-13,232766
+Louisiana,,2021-02-14,248848
+Louisiana,,2021-02-16,255269
+Louisiana,,2021-02-17,258404
+Louisiana,,2021-02-18,259851
+Louisiana,,2021-02-19,285057
+Louisiana,,2021-02-20,293295
+Louisiana,,2021-02-21,301923
+Louisiana,,2021-02-22,306685
+Louisiana,,2021-02-23,309174
+Louisiana,,2021-02-24,317284
+Louisiana,,2021-02-25,330738
+Louisiana,,2021-02-26,348969
+Louisiana,,2021-02-27,366968
+Louisiana,,2021-02-28,380420
+Louisiana,,2021-03-01,385486
+Louisiana,,2021-03-02,387514
+Louisiana,,2021-03-03,395300
+Louisiana,,2021-03-04,407880
+Louisiana,,2021-03-05,424563
+Louisiana,,2021-03-06,425050
+Louisiana,,2021-03-07,425793
+Louisiana,,2021-03-08,461597
+Louisiana,,2021-03-09,465217
+Maine,,2021-01-12,4518
+Maine,,2021-01-13,5182
+Maine,,2021-01-15,8274
+Maine,,2021-01-19,10018
+Maine,,2021-01-20,10661
+Maine,,2021-01-21,12071
+Maine,,2021-01-22,14893
+Maine,,2021-01-23,17562
+Maine,,2021-01-24,19151
+Maine,,2021-01-25,19873
+Maine,,2021-01-26,20096
+Maine,,2021-01-27,21707
+Maine,,2021-01-28,24925
+Maine,,2021-01-29,28255
+Maine,,2021-01-30,31055
+Maine,,2021-01-31,33121
+Maine,,2021-02-01,34299
+Maine,,2021-02-02,34299
+Maine,,2021-02-03,34299
+Maine,,2021-02-04,36870
+Maine,,2021-02-05,38542
+Maine,,2021-02-06,40806
+Maine,,2021-02-07,44447
+Maine,,2021-02-08,44447
+Maine,,2021-02-09,47770
+Maine,,2021-02-10,49721
+Maine,,2021-02-11,49721
+Maine,,2021-02-12,49721
+Maine,,2021-02-13,49721
+Maine,,2021-02-14,49721
+Maine,,2021-02-16,64236
+Maine,,2021-02-17,65928
+Maine,,2021-02-18,65928
+Maine,,2021-02-19,75845
+Maine,,2021-02-20,75889
+Maine,,2021-02-21,76101
+Maine,,2021-02-22,90423
+Maine,,2021-02-23,91339
+Maine,,2021-02-24,94466
+Maine,,2021-02-25,94469
+Maine,,2021-02-26,94495
+Maine,,2021-02-27,106125
+Maine,,2021-02-28,106345
+Maine,,2021-03-01,106444
+Maine,,2021-03-02,106447
+Maine,,2021-03-03,106463
+Maine,,2021-03-04,106465
+Maine,,2021-03-05,125573
+Maine,,2021-03-06,132299
+Maine,,2021-03-07,132588
+Maine,,2021-03-08,148712
+Maine,,2021-03-09,152152
+Marshall Islands,MHL,2021-01-12,1
+Marshall Islands,MHL,2021-01-13,1
+Marshall Islands,MHL,2021-01-15,2
+Marshall Islands,MHL,2021-01-19,2
+Marshall Islands,MHL,2021-01-20,2
+Marshall Islands,MHL,2021-01-21,2
+Marshall Islands,MHL,2021-01-22,2
+Marshall Islands,MHL,2021-01-23,3
+Marshall Islands,MHL,2021-01-24,3
+Marshall Islands,MHL,2021-01-25,3
+Marshall Islands,MHL,2021-01-26,3
+Marshall Islands,MHL,2021-01-27,20
+Marshall Islands,MHL,2021-01-28,129
+Marshall Islands,MHL,2021-01-29,232
+Marshall Islands,MHL,2021-01-30,234
+Marshall Islands,MHL,2021-01-31,327
+Marshall Islands,MHL,2021-02-01,327
+Marshall Islands,MHL,2021-02-02,376
+Marshall Islands,MHL,2021-02-03,376
+Marshall Islands,MHL,2021-02-04,431
+Marshall Islands,MHL,2021-02-05,443
+Marshall Islands,MHL,2021-02-06,443
+Marshall Islands,MHL,2021-02-07,457
+Marshall Islands,MHL,2021-02-08,457
+Marshall Islands,MHL,2021-02-09,479
+Marshall Islands,MHL,2021-02-10,493
+Marshall Islands,MHL,2021-02-11,527
+Marshall Islands,MHL,2021-02-12,590
+Marshall Islands,MHL,2021-02-13,596
+Marshall Islands,MHL,2021-02-14,665
+Marshall Islands,MHL,2021-02-16,726
+Marshall Islands,MHL,2021-02-17,728
+Marshall Islands,MHL,2021-02-18,856
+Marshall Islands,MHL,2021-02-19,1161
+Marshall Islands,MHL,2021-02-20,1218
+Marshall Islands,MHL,2021-02-21,1491
+Marshall Islands,MHL,2021-02-22,1695
+Marshall Islands,MHL,2021-02-23,1845
+Marshall Islands,MHL,2021-02-24,2171
+Marshall Islands,MHL,2021-02-25,2227
+Marshall Islands,MHL,2021-02-26,2267
+Marshall Islands,MHL,2021-02-27,2267
+Marshall Islands,MHL,2021-02-28,2329
+Marshall Islands,MHL,2021-03-01,2329
+Marshall Islands,MHL,2021-03-02,2459
+Marshall Islands,MHL,2021-03-03,2459
+Marshall Islands,MHL,2021-03-04,2668
+Marshall Islands,MHL,2021-03-05,2869
+Marshall Islands,MHL,2021-03-06,3215
+Marshall Islands,MHL,2021-03-07,3261
+Marshall Islands,MHL,2021-03-08,3263
+Marshall Islands,MHL,2021-03-09,3744
+Maryland,,2021-01-12,6663
+Maryland,,2021-01-13,12706
+Maryland,,2021-01-15,15830
+Maryland,,2021-01-19,21794
+Maryland,,2021-01-20,24355
+Maryland,,2021-01-21,28106
+Maryland,,2021-01-22,30877
+Maryland,,2021-01-23,34090
+Maryland,,2021-01-24,37507
+Maryland,,2021-01-25,39259
+Maryland,,2021-01-26,42228
+Maryland,,2021-01-27,48629
+Maryland,,2021-01-28,56274
+Maryland,,2021-01-29,66582
+Maryland,,2021-01-30,76905
+Maryland,,2021-01-31,82743
+Maryland,,2021-02-01,87039
+Maryland,,2021-02-02,88359
+Maryland,,2021-02-03,91468
+Maryland,,2021-02-04,101425
+Maryland,,2021-02-05,115640
+Maryland,,2021-02-06,129951
+Maryland,,2021-02-07,146335
+Maryland,,2021-02-08,150844
+Maryland,,2021-02-09,154468
+Maryland,,2021-02-10,168844
+Maryland,,2021-02-11,181380
+Maryland,,2021-02-12,197848
+Maryland,,2021-02-13,212923
+Maryland,,2021-02-14,231127
+Maryland,,2021-02-16,244272
+Maryland,,2021-02-17,253696
+Maryland,,2021-02-18,265183
+Maryland,,2021-02-19,300029
+Maryland,,2021-02-20,320657
+Maryland,,2021-02-21,342271
+Maryland,,2021-02-22,354904
+Maryland,,2021-02-23,366689
+Maryland,,2021-02-24,383333
+Maryland,,2021-02-25,399241
+Maryland,,2021-02-26,422523
+Maryland,,2021-02-27,447139
+Maryland,,2021-02-28,470511
+Maryland,,2021-03-01,485911
+Maryland,,2021-03-02,495873
+Maryland,,2021-03-03,516955
+Maryland,,2021-03-04,532972
+Maryland,,2021-03-05,550058
+Maryland,,2021-03-06,569997
+Maryland,,2021-03-07,582970
+Maryland,,2021-03-08,628959
+Maryland,,2021-03-09,647080
+Massachusetts,,2021-01-12,19073
+Massachusetts,,2021-01-13,24789
+Massachusetts,,2021-01-15,34885
+Massachusetts,,2021-01-19,41053
+Massachusetts,,2021-01-20,42062
+Massachusetts,,2021-01-21,46247
+Massachusetts,,2021-01-22,51662
+Massachusetts,,2021-01-23,57869
+Massachusetts,,2021-01-24,63096
+Massachusetts,,2021-01-25,64648
+Massachusetts,,2021-01-26,65761
+Massachusetts,,2021-01-27,73152
+Massachusetts,,2021-01-28,83637
+Massachusetts,,2021-01-29,96373
+Massachusetts,,2021-01-30,106799
+Massachusetts,,2021-01-31,116315
+Massachusetts,,2021-02-01,122652
+Massachusetts,,2021-02-02,126560
+Massachusetts,,2021-02-03,126560
+Massachusetts,,2021-02-04,134311
+Massachusetts,,2021-02-05,143690
+Massachusetts,,2021-02-06,153692
+Massachusetts,,2021-02-07,169148
+Massachusetts,,2021-02-08,174437
+Massachusetts,,2021-02-09,181280
+Massachusetts,,2021-02-10,194968
+Massachusetts,,2021-02-11,207392
+Massachusetts,,2021-02-12,218795
+Massachusetts,,2021-02-13,235910
+Massachusetts,,2021-02-14,259760
+Massachusetts,,2021-02-16,280622
+Massachusetts,,2021-02-17,288309
+Massachusetts,,2021-02-18,299871
+Massachusetts,,2021-02-19,326108
+Massachusetts,,2021-02-20,343624
+Massachusetts,,2021-02-21,367709
+Massachusetts,,2021-02-22,384582
+Massachusetts,,2021-02-23,395361
+Massachusetts,,2021-02-24,410360
+Massachusetts,,2021-02-25,428265
+Massachusetts,,2021-02-26,448622
+Massachusetts,,2021-02-27,475214
+Massachusetts,,2021-02-28,500616
+Massachusetts,,2021-03-01,527811
+Massachusetts,,2021-03-02,543969
+Massachusetts,,2021-03-03,562289
+Massachusetts,,2021-03-04,583872
+Massachusetts,,2021-03-05,611282
+Massachusetts,,2021-03-06,642921
+Massachusetts,,2021-03-07,669683
+Massachusetts,,2021-03-08,695094
+Massachusetts,,2021-03-09,706965
+Michigan,,2021-01-12,19472
+Michigan,,2021-01-13,31937
+Michigan,,2021-01-15,48536
+Michigan,,2021-01-19,62780
+Michigan,,2021-01-20,70535
+Michigan,,2021-01-21,81014
+Michigan,,2021-01-22,92473
+Michigan,,2021-01-23,105890
+Michigan,,2021-01-24,111243
+Michigan,,2021-01-25,116840
+Michigan,,2021-01-26,119962
+Michigan,,2021-01-27,131282
+Michigan,,2021-01-28,143757
+Michigan,,2021-01-29,159723
+Michigan,,2021-01-30,175117
+Michigan,,2021-01-31,190777
+Michigan,,2021-02-01,197770
+Michigan,,2021-02-02,200265
+Michigan,,2021-02-03,214234
+Michigan,,2021-02-04,229373
+Michigan,,2021-02-05,252963
+Michigan,,2021-02-06,282345
+Michigan,,2021-02-07,312240
+Michigan,,2021-02-08,328801
+Michigan,,2021-02-09,343580
+Michigan,,2021-02-10,371358
+Michigan,,2021-02-11,398177
+Michigan,,2021-02-12,425663
+Michigan,,2021-02-13,459336
+Michigan,,2021-02-14,490997
+Michigan,,2021-02-16,515237
+Michigan,,2021-02-17,526520
+Michigan,,2021-02-18,545553
+Michigan,,2021-02-19,591771
+Michigan,,2021-02-20,617751
+Michigan,,2021-02-21,647617
+Michigan,,2021-02-22,670899
+Michigan,,2021-02-23,677980
+Michigan,,2021-02-24,705514
+Michigan,,2021-02-25,740415
+Michigan,,2021-02-26,768464
+Michigan,,2021-02-27,803702
+Michigan,,2021-02-28,830176
+Michigan,,2021-03-01,846505
+Michigan,,2021-03-02,856892
+Michigan,,2021-03-03,866351
+Michigan,,2021-03-04,890515
+Michigan,,2021-03-05,916288
+Michigan,,2021-03-06,940722
+Michigan,,2021-03-07,964944
+Michigan,,2021-03-08,1002567
+Michigan,,2021-03-09,1009603
+Minnesota,,2021-01-12,9798
+Minnesota,,2021-01-13,10426
+Minnesota,,2021-01-15,27799
+Minnesota,,2021-01-19,42116
+Minnesota,,2021-01-20,42384
+Minnesota,,2021-01-21,46008
+Minnesota,,2021-01-22,53940
+Minnesota,,2021-01-23,64768
+Minnesota,,2021-01-24,67716
+Minnesota,,2021-01-25,72266
+Minnesota,,2021-01-26,72622
+Minnesota,,2021-01-27,75844
+Minnesota,,2021-01-28,87269
+Minnesota,,2021-01-29,98634
+Minnesota,,2021-01-30,107528
+Minnesota,,2021-01-31,114255
+Minnesota,,2021-02-01,118959
+Minnesota,,2021-02-02,119631
+Minnesota,,2021-02-03,119631
+Minnesota,,2021-02-04,131728
+Minnesota,,2021-02-05,131728
+Minnesota,,2021-02-06,150576
+Minnesota,,2021-02-07,157277
+Minnesota,,2021-02-08,160794
+Minnesota,,2021-02-09,160794
+Minnesota,,2021-02-10,160794
+Minnesota,,2021-02-11,176482
+Minnesota,,2021-02-12,188872
+Minnesota,,2021-02-13,205958
+Minnesota,,2021-02-14,224005
+Minnesota,,2021-02-16,236228
+Minnesota,,2021-02-17,240414
+Minnesota,,2021-02-18,257283
+Minnesota,,2021-02-19,293643
+Minnesota,,2021-02-20,321228
+Minnesota,,2021-02-21,344300
+Minnesota,,2021-02-22,345351
+Minnesota,,2021-02-23,365627
+Minnesota,,2021-02-24,374323
+Minnesota,,2021-02-25,389777
+Minnesota,,2021-02-26,409927
+Minnesota,,2021-02-27,435199
+Minnesota,,2021-02-28,454008
+Minnesota,,2021-03-01,468222
+Minnesota,,2021-03-02,474714
+Minnesota,,2021-03-03,486432
+Minnesota,,2021-03-04,501368
+Minnesota,,2021-03-05,521381
+Minnesota,,2021-03-06,544905
+Minnesota,,2021-03-07,561546
+Minnesota,,2021-03-08,592955
+Minnesota,,2021-03-09,603801
+Mississippi,,2021-01-12,4832
+Mississippi,,2021-01-13,5722
+Mississippi,,2021-01-15,8396
+Mississippi,,2021-01-19,9545
+Mississippi,,2021-01-20,9979
+Mississippi,,2021-01-21,11567
+Mississippi,,2021-01-22,13423
+Mississippi,,2021-01-23,13423
+Mississippi,,2021-01-24,15918
+Mississippi,,2021-01-25,16034
+Mississippi,,2021-01-26,16134
+Mississippi,,2021-01-27,17499
+Mississippi,,2021-01-28,19475
+Mississippi,,2021-01-29,21354
+Mississippi,,2021-01-30,22816
+Mississippi,,2021-01-31,24455
+Mississippi,,2021-02-01,25077
+Mississippi,,2021-02-02,25408
+Mississippi,,2021-02-03,27786
+Mississippi,,2021-02-04,27786
+Mississippi,,2021-02-05,37572
+Mississippi,,2021-02-06,47607
+Mississippi,,2021-02-07,56140
+Mississippi,,2021-02-08,59325
+Mississippi,,2021-02-09,60237
+Mississippi,,2021-02-10,67829
+Mississippi,,2021-02-11,78802
+Mississippi,,2021-02-12,89697
+Mississippi,,2021-02-13,103462
+Mississippi,,2021-02-14,114284
+Mississippi,,2021-02-16,119684
+Mississippi,,2021-02-17,119684
+Mississippi,,2021-02-18,119684
+Mississippi,,2021-02-19,131916
+Mississippi,,2021-02-20,135591
+Mississippi,,2021-02-21,140550
+Mississippi,,2021-02-22,144566
+Mississippi,,2021-02-23,147697
+Mississippi,,2021-02-24,158823
+Mississippi,,2021-02-25,159155
+Mississippi,,2021-02-26,181808
+Mississippi,,2021-02-27,193966
+Mississippi,,2021-02-28,206850
+Mississippi,,2021-03-01,216072
+Mississippi,,2021-03-02,220081
+Mississippi,,2021-03-03,228512
+Mississippi,,2021-03-04,237488
+Mississippi,,2021-03-05,247826
+Mississippi,,2021-03-06,255966
+Mississippi,,2021-03-07,265467
+Mississippi,,2021-03-08,278797
+Mississippi,,2021-03-09,280373
+Missouri,,2021-01-12,22155
+Missouri,,2021-01-13,22155
+Missouri,,2021-01-15,36525
+Missouri,,2021-01-19,45368
+Missouri,,2021-01-20,49330
+Missouri,,2021-01-21,58782
+Missouri,,2021-01-22,66699
+Missouri,,2021-01-23,68466
+Missouri,,2021-01-24,73248
+Missouri,,2021-01-25,75823
+Missouri,,2021-01-26,76467
+Missouri,,2021-01-27,79526
+Missouri,,2021-01-28,85827
+Missouri,,2021-01-29,92389
+Missouri,,2021-01-30,92389
+Missouri,,2021-01-31,100237
+Missouri,,2021-02-01,103241
+Missouri,,2021-02-02,104063
+Missouri,,2021-02-03,106842
+Missouri,,2021-02-04,112106
+Missouri,,2021-02-05,118308
+Missouri,,2021-02-06,129273
+Missouri,,2021-02-07,141134
+Missouri,,2021-02-08,146137
+Missouri,,2021-02-09,147466
+Missouri,,2021-02-10,154987
+Missouri,,2021-02-11,163157
+Missouri,,2021-02-12,172953
+Missouri,,2021-02-13,205645
+Missouri,,2021-02-14,225467
+Missouri,,2021-02-16,238767
+Missouri,,2021-02-17,244879
+Missouri,,2021-02-18,259295
+Missouri,,2021-02-19,295456
+Missouri,,2021-02-20,308971
+Missouri,,2021-02-21,336446
+Missouri,,2021-02-22,348584
+Missouri,,2021-02-23,352782
+Missouri,,2021-02-24,366980
+Missouri,,2021-02-25,384758
+Missouri,,2021-02-26,399851
+Missouri,,2021-02-27,432728
+Missouri,,2021-02-28,432982
+Missouri,,2021-03-01,464382
+Missouri,,2021-03-02,466460
+Missouri,,2021-03-03,477486
+Missouri,,2021-03-04,495859
+Missouri,,2021-03-05,513857
+Missouri,,2021-03-06,530814
+Missouri,,2021-03-07,547105
+Missouri,,2021-03-08,541587
+Missouri,,2021-03-09,544220
+Montana,,2021-01-12,5843
+Montana,,2021-01-13,6823
+Montana,,2021-01-15,8193
+Montana,,2021-01-19,8671
+Montana,,2021-01-20,9121
+Montana,,2021-01-21,9962
+Montana,,2021-01-22,11878
+Montana,,2021-01-23,13235
+Montana,,2021-01-24,14071
+Montana,,2021-01-25,14111
+Montana,,2021-01-26,14245
+Montana,,2021-01-27,15397
+Montana,,2021-01-28,18149
+Montana,,2021-01-29,21007
+Montana,,2021-01-30,23785
+Montana,,2021-01-31,24885
+Montana,,2021-02-01,25438
+Montana,,2021-02-02,25824
+Montana,,2021-02-03,26345
+Montana,,2021-02-04,28942
+Montana,,2021-02-05,30749
+Montana,,2021-02-06,34207
+Montana,,2021-02-07,36195
+Montana,,2021-02-08,36596
+Montana,,2021-02-09,36907
+Montana,,2021-02-10,37966
+Montana,,2021-02-11,39710
+Montana,,2021-02-12,41895
+Montana,,2021-02-13,44935
+Montana,,2021-02-14,48739
+Montana,,2021-02-16,50311
+Montana,,2021-02-17,51293
+Montana,,2021-02-18,53250
+Montana,,2021-02-19,62657
+Montana,,2021-02-20,66619
+Montana,,2021-02-21,70876
+Montana,,2021-02-22,72256
+Montana,,2021-02-23,73080
+Montana,,2021-02-24,75223
+Montana,,2021-02-25,78135
+Montana,,2021-02-26,81762
+Montana,,2021-02-27,87159
+Montana,,2021-02-28,92632
+Montana,,2021-03-01,93625
+Montana,,2021-03-02,94538
+Montana,,2021-03-03,96839
+Montana,,2021-03-04,101513
+Montana,,2021-03-05,107045
+Montana,,2021-03-06,113254
+Montana,,2021-03-07,119764
+Montana,,2021-03-08,122866
+Montana,,2021-03-09,123617
+Nebraska,,2021-01-12,8459
+Nebraska,,2021-01-13,10529
+Nebraska,,2021-01-15,13050
+Nebraska,,2021-01-19,13860
+Nebraska,,2021-01-20,14463
+Nebraska,,2021-01-21,16206
+Nebraska,,2021-01-22,18086
+Nebraska,,2021-01-23,19646
+Nebraska,,2021-01-24,22175
+Nebraska,,2021-01-25,22547
+Nebraska,,2021-01-26,23065
+Nebraska,,2021-01-27,24598
+Nebraska,,2021-01-28,32380
+Nebraska,,2021-01-29,37350
+Nebraska,,2021-01-30,41093
+Nebraska,,2021-01-31,43712
+Nebraska,,2021-02-01,45716
+Nebraska,,2021-02-02,46523
+Nebraska,,2021-02-03,48889
+Nebraska,,2021-02-04,52390
+Nebraska,,2021-02-05,55313
+Nebraska,,2021-02-06,59985
+Nebraska,,2021-02-07,66018
+Nebraska,,2021-02-08,67636
+Nebraska,,2021-02-09,68056
+Nebraska,,2021-02-10,70566
+Nebraska,,2021-02-11,73704
+Nebraska,,2021-02-12,78835
+Nebraska,,2021-02-13,83670
+Nebraska,,2021-02-14,88356
+Nebraska,,2021-02-16,90231
+Nebraska,,2021-02-17,91998
+Nebraska,,2021-02-18,96439
+Nebraska,,2021-02-19,110603
+Nebraska,,2021-02-20,114580
+Nebraska,,2021-02-21,118472
+Nebraska,,2021-02-22,119890
+Nebraska,,2021-02-23,124196
+Nebraska,,2021-02-24,131472
+Nebraska,,2021-02-25,138194
+Nebraska,,2021-02-26,145699
+Nebraska,,2021-02-27,146594
+Nebraska,,2021-02-28,161017
+Nebraska,,2021-03-01,161830
+Nebraska,,2021-03-02,164570
+Nebraska,,2021-03-03,170153
+Nebraska,,2021-03-04,177640
+Nebraska,,2021-03-05,187246
+Nebraska,,2021-03-06,187852
+Nebraska,,2021-03-07,196265
+Nebraska,,2021-03-08,203997
+Nebraska,,2021-03-09,209383
+Nevada,,2021-01-12,8761
+Nevada,,2021-01-13,8761
+Nevada,,2021-01-15,15308
+Nevada,,2021-01-19,16665
+Nevada,,2021-01-20,17209
+Nevada,,2021-01-21,19296
+Nevada,,2021-01-22,20345
+Nevada,,2021-01-23,20972
+Nevada,,2021-01-24,22068
+Nevada,,2021-01-25,22279
+Nevada,,2021-01-26,22508
+Nevada,,2021-01-27,23852
+Nevada,,2021-01-28,26327
+Nevada,,2021-01-29,29163
+Nevada,,2021-01-30,31783
+Nevada,,2021-01-31,33923
+Nevada,,2021-02-01,35559
+Nevada,,2021-02-02,37568
+Nevada,,2021-02-03,41227
+Nevada,,2021-02-04,45735
+Nevada,,2021-02-05,49925
+Nevada,,2021-02-06,56456
+Nevada,,2021-02-07,62654
+Nevada,,2021-02-08,66755
+Nevada,,2021-02-09,67651
+Nevada,,2021-02-10,73088
+Nevada,,2021-02-11,77555
+Nevada,,2021-02-12,83485
+Nevada,,2021-02-13,90476
+Nevada,,2021-02-14,98469
+Nevada,,2021-02-16,107905
+Nevada,,2021-02-17,109852
+Nevada,,2021-02-18,117870
+Nevada,,2021-02-19,138633
+Nevada,,2021-02-20,157477
+Nevada,,2021-02-21,165269
+Nevada,,2021-02-22,176341
+Nevada,,2021-02-23,183594
+Nevada,,2021-02-24,187809
+Nevada,,2021-02-25,194377
+Nevada,,2021-02-26,205500
+Nevada,,2021-02-27,218299
+Nevada,,2021-02-28,227816
+Nevada,,2021-03-01,240683
+Nevada,,2021-03-02,244622
+Nevada,,2021-03-03,249472
+Nevada,,2021-03-04,255738
+Nevada,,2021-03-05,263586
+Nevada,,2021-03-06,274394
+Nevada,,2021-03-07,285336
+Nevada,,2021-03-08,294908
+Nevada,,2021-03-09,298403
+New Hampshire,,2021-01-12,5
+New Hampshire,,2021-01-13,9
+New Hampshire,,2021-01-15,5700
+New Hampshire,,2021-01-19,7120
+New Hampshire,,2021-01-20,8013
+New Hampshire,,2021-01-21,10319
+New Hampshire,,2021-01-22,12575
+New Hampshire,,2021-01-23,13166
+New Hampshire,,2021-01-24,13355
+New Hampshire,,2021-01-25,13907
+New Hampshire,,2021-01-26,15542
+New Hampshire,,2021-01-27,18224
+New Hampshire,,2021-01-28,21781
+New Hampshire,,2021-01-29,25055
+New Hampshire,,2021-01-30,27544
+New Hampshire,,2021-01-31,29736
+New Hampshire,,2021-02-01,30421
+New Hampshire,,2021-02-02,32381
+New Hampshire,,2021-02-03,34130
+New Hampshire,,2021-02-04,36868
+New Hampshire,,2021-02-05,40489
+New Hampshire,,2021-02-06,43888
+New Hampshire,,2021-02-07,45567
+New Hampshire,,2021-02-08,46071
+New Hampshire,,2021-02-09,47409
+New Hampshire,,2021-02-10,50602
+New Hampshire,,2021-02-11,53145
+New Hampshire,,2021-02-12,55696
+New Hampshire,,2021-02-13,59402
+New Hampshire,,2021-02-14,61658
+New Hampshire,,2021-02-16,65235
+New Hampshire,,2021-02-17,66108
+New Hampshire,,2021-02-18,69617
+New Hampshire,,2021-02-19,74721
+New Hampshire,,2021-02-20,78361
+New Hampshire,,2021-02-21,81490
+New Hampshire,,2021-02-22,82957
+New Hampshire,,2021-02-23,84000
+New Hampshire,,2021-02-24,86410
+New Hampshire,,2021-02-25,89032
+New Hampshire,,2021-02-26,91988
+New Hampshire,,2021-02-27,94510
+New Hampshire,,2021-02-28,96465
+New Hampshire,,2021-03-01,96729
+New Hampshire,,2021-03-02,97565
+New Hampshire,,2021-03-03,99785
+New Hampshire,,2021-03-04,102788
+New Hampshire,,2021-03-05,105441
+New Hampshire,,2021-03-06,110025
+New Hampshire,,2021-03-07,112579
+New Hampshire,,2021-03-08,120116
+New Hampshire,,2021-03-09,123431
+New Jersey,,2021-01-12,14306
+New Jersey,,2021-01-13,26926
+New Jersey,,2021-01-15,36741
+New Jersey,,2021-01-19,43879
+New Jersey,,2021-01-20,49420
+New Jersey,,2021-01-21,49420
+New Jersey,,2021-01-22,56213
+New Jersey,,2021-01-23,61506
+New Jersey,,2021-01-24,65164
+New Jersey,,2021-01-25,69374
+New Jersey,,2021-01-26,72212
+New Jersey,,2021-01-27,79648
+New Jersey,,2021-01-28,88198
+New Jersey,,2021-01-29,108740
+New Jersey,,2021-01-30,117791
+New Jersey,,2021-01-31,123147
+New Jersey,,2021-02-01,127552
+New Jersey,,2021-02-02,137096
+New Jersey,,2021-02-03,145570
+New Jersey,,2021-02-04,145570
+New Jersey,,2021-02-05,157642
+New Jersey,,2021-02-06,199040
+New Jersey,,2021-02-07,210601
+New Jersey,,2021-02-08,221465
+New Jersey,,2021-02-09,240470
+New Jersey,,2021-02-10,259944
+New Jersey,,2021-02-11,280021
+New Jersey,,2021-02-12,305518
+New Jersey,,2021-02-13,332888
+New Jersey,,2021-02-14,350955
+New Jersey,,2021-02-16,383659
+New Jersey,,2021-02-17,407180
+New Jersey,,2021-02-18,433066
+New Jersey,,2021-02-19,458928
+New Jersey,,2021-02-20,484965
+New Jersey,,2021-02-21,510377
+New Jersey,,2021-02-22,521674
+New Jersey,,2021-02-23,546919
+New Jersey,,2021-02-24,569056
+New Jersey,,2021-02-25,600777
+New Jersey,,2021-02-26,639428
+New Jersey,,2021-02-27,668746
+New Jersey,,2021-02-28,689303
+New Jersey,,2021-03-01,696473
+New Jersey,,2021-03-02,725092
+New Jersey,,2021-03-03,745182
+New Jersey,,2021-03-04,766848
+New Jersey,,2021-03-05,794448
+New Jersey,,2021-03-06,821146
+New Jersey,,2021-03-07,841457
+New Jersey,,2021-03-08,898336
+New Jersey,,2021-03-09,923455
+New Mexico,,2021-01-12,11335
+New Mexico,,2021-01-13,12426
+New Mexico,,2021-01-15,18711
+New Mexico,,2021-01-19,23236
+New Mexico,,2021-01-20,24706
+New Mexico,,2021-01-21,27014
+New Mexico,,2021-01-22,29278
+New Mexico,,2021-01-23,33133
+New Mexico,,2021-01-24,34878
+New Mexico,,2021-01-25,35507
+New Mexico,,2021-01-26,35823
+New Mexico,,2021-01-27,38292
+New Mexico,,2021-01-28,41669
+New Mexico,,2021-01-29,46878
+New Mexico,,2021-01-30,50153
+New Mexico,,2021-01-31,56314
+New Mexico,,2021-02-01,60099
+New Mexico,,2021-02-02,60740
+New Mexico,,2021-02-03,62821
+New Mexico,,2021-02-04,67246
+New Mexico,,2021-02-05,71951
+New Mexico,,2021-02-06,78774
+New Mexico,,2021-02-07,83100
+New Mexico,,2021-02-08,87916
+New Mexico,,2021-02-09,88738
+New Mexico,,2021-02-10,92720
+New Mexico,,2021-02-11,101665
+New Mexico,,2021-02-12,111954
+New Mexico,,2021-02-13,118379
+New Mexico,,2021-02-14,128316
+New Mexico,,2021-02-16,137520
+New Mexico,,2021-02-17,139262
+New Mexico,,2021-02-18,144049
+New Mexico,,2021-02-19,177122
+New Mexico,,2021-02-20,186104
+New Mexico,,2021-02-21,194771
+New Mexico,,2021-02-22,198486
+New Mexico,,2021-02-23,201402
+New Mexico,,2021-02-24,204402
+New Mexico,,2021-02-25,212211
+New Mexico,,2021-02-26,222306
+New Mexico,,2021-02-27,231157
+New Mexico,,2021-02-28,241550
+New Mexico,,2021-03-01,244734
+New Mexico,,2021-03-02,249716
+New Mexico,,2021-03-03,255621
+New Mexico,,2021-03-04,259543
+New Mexico,,2021-03-05,267819
+New Mexico,,2021-03-06,284532
+New Mexico,,2021-03-07,289944
+New Mexico,,2021-03-08,303277
+New Mexico,,2021-03-09,304689
+New York State,,2021-01-12,36422
+New York State,,2021-01-13,44512
+New York State,,2021-01-15,73523
+New York State,,2021-01-19,102187
+New York State,,2021-01-20,106821
+New York State,,2021-01-21,120801
+New York State,,2021-01-22,142005
+New York State,,2021-01-23,162685
+New York State,,2021-01-24,176659
+New York State,,2021-01-25,183915
+New York State,,2021-01-26,189791
+New York State,,2021-01-27,212802
+New York State,,2021-01-28,238722
+New York State,,2021-01-29,271874
+New York State,,2021-01-30,303102
+New York State,,2021-01-31,329795
+New York State,,2021-02-01,344325
+New York State,,2021-02-02,353127
+New York State,,2021-02-03,368054
+New York State,,2021-02-04,388798
+New York State,,2021-02-05,426368
+New York State,,2021-02-06,468747
+New York State,,2021-02-07,519101
+New York State,,2021-02-08,554262
+New York State,,2021-02-09,572426
+New York State,,2021-02-10,619504
+New York State,,2021-02-11,668178
+New York State,,2021-02-12,721554
+New York State,,2021-02-13,778565
+New York State,,2021-02-14,833444
+New York State,,2021-02-16,924475
+New York State,,2021-02-17,955337
+New York State,,2021-02-18,993790
+New York State,,2021-02-19,1066991
+New York State,,2021-02-20,1117514
+New York State,,2021-02-21,1167934
+New York State,,2021-02-22,1218748
+New York State,,2021-02-23,1254485
+New York State,,2021-02-24,1279059
+New York State,,2021-02-25,1304163
+New York State,,2021-02-26,1337747
+New York State,,2021-02-27,1380104
+New York State,,2021-02-28,1442220
+New York State,,2021-03-01,1485601
+New York State,,2021-03-02,1522346
+New York State,,2021-03-03,1556522
+New York State,,2021-03-04,1585561
+New York State,,2021-03-05,1616099
+New York State,,2021-03-06,1655487
+New York State,,2021-03-07,1703626
+New York State,,2021-03-08,1752004
+New York State,,2021-03-09,1792253
+North Carolina,,2021-01-12,19293
+North Carolina,,2021-01-13,35148
+North Carolina,,2021-01-15,42790
+North Carolina,,2021-01-19,54012
+North Carolina,,2021-01-20,58407
+North Carolina,,2021-01-21,66736
+North Carolina,,2021-01-22,74427
+North Carolina,,2021-01-23,79197
+North Carolina,,2021-01-24,83752
+North Carolina,,2021-01-25,86064
+North Carolina,,2021-01-26,87292
+North Carolina,,2021-01-27,88145
+North Carolina,,2021-01-28,120480
+North Carolina,,2021-01-29,120946
+North Carolina,,2021-01-30,135263
+North Carolina,,2021-01-31,149906
+North Carolina,,2021-02-01,155824
+North Carolina,,2021-02-02,155973
+North Carolina,,2021-02-03,170087
+North Carolina,,2021-02-04,186914
+North Carolina,,2021-02-05,206642
+North Carolina,,2021-02-06,230372
+North Carolina,,2021-02-07,262031
+North Carolina,,2021-02-08,273763
+North Carolina,,2021-02-09,280303
+North Carolina,,2021-02-10,300991
+North Carolina,,2021-02-11,330758
+North Carolina,,2021-02-12,370032
+North Carolina,,2021-02-13,406851
+North Carolina,,2021-02-14,448878
+North Carolina,,2021-02-16,483989
+North Carolina,,2021-02-17,509113
+North Carolina,,2021-02-18,540933
+North Carolina,,2021-02-19,616620
+North Carolina,,2021-02-20,651958
+North Carolina,,2021-02-21,691447
+North Carolina,,2021-02-22,716027
+North Carolina,,2021-02-23,724993
+North Carolina,,2021-02-24,754213
+North Carolina,,2021-02-25,782138
+North Carolina,,2021-02-26,812003
+North Carolina,,2021-02-27,839827
+North Carolina,,2021-02-28,870088
+North Carolina,,2021-03-01,886852
+North Carolina,,2021-03-02,894708
+North Carolina,,2021-03-03,916706
+North Carolina,,2021-03-04,943505
+North Carolina,,2021-03-05,949615
+North Carolina,,2021-03-06,976589
+North Carolina,,2021-03-07,1000175
+North Carolina,,2021-03-08,1007844
+North Carolina,,2021-03-09,1015937
+North Dakota,,2021-01-12,5815
+North Dakota,,2021-01-13,6395
+North Dakota,,2021-01-15,7555
+North Dakota,,2021-01-19,8641
+North Dakota,,2021-01-20,8954
+North Dakota,,2021-01-21,9881
+North Dakota,,2021-01-22,12428
+North Dakota,,2021-01-23,14412
+North Dakota,,2021-01-24,15589
+North Dakota,,2021-01-25,15680
+North Dakota,,2021-01-26,15742
+North Dakota,,2021-01-27,16952
+North Dakota,,2021-01-28,18244
+North Dakota,,2021-01-29,20700
+North Dakota,,2021-01-30,22968
+North Dakota,,2021-01-31,25359
+North Dakota,,2021-02-01,26136
+North Dakota,,2021-02-02,26493
+North Dakota,,2021-02-03,27418
+North Dakota,,2021-02-04,28847
+North Dakota,,2021-02-05,30829
+North Dakota,,2021-02-06,35123
+North Dakota,,2021-02-07,37651
+North Dakota,,2021-02-08,38417
+North Dakota,,2021-02-09,38417
+North Dakota,,2021-02-10,39154
+North Dakota,,2021-02-11,40721
+North Dakota,,2021-02-12,43276
+North Dakota,,2021-02-13,45474
+North Dakota,,2021-02-14,47552
+North Dakota,,2021-02-16,49263
+North Dakota,,2021-02-17,49615
+North Dakota,,2021-02-18,50438
+North Dakota,,2021-02-19,58099
+North Dakota,,2021-02-20,61624
+North Dakota,,2021-02-21,65293
+North Dakota,,2021-02-22,65503
+North Dakota,,2021-02-23,65701
+North Dakota,,2021-02-24,67006
+North Dakota,,2021-02-25,68641
+North Dakota,,2021-02-26,72168
+North Dakota,,2021-02-27,77018
+North Dakota,,2021-02-28,80647
+North Dakota,,2021-03-01,82284
+North Dakota,,2021-03-02,82398
+North Dakota,,2021-03-03,83505
+North Dakota,,2021-03-04,85789
+North Dakota,,2021-03-05,89500
+North Dakota,,2021-03-06,91668
+North Dakota,,2021-03-07,93863
+North Dakota,,2021-03-08,91455
+North Dakota,,2021-03-09,91874
+Northern Mariana Islands,MNP,2021-01-12,331
+Northern Mariana Islands,MNP,2021-01-13,703
+Northern Mariana Islands,MNP,2021-01-15,1146
+Northern Mariana Islands,MNP,2021-01-19,1916
+Northern Mariana Islands,MNP,2021-01-20,2219
+Northern Mariana Islands,MNP,2021-01-21,2700
+Northern Mariana Islands,MNP,2021-01-22,3016
+Northern Mariana Islands,MNP,2021-01-23,3016
+Northern Mariana Islands,MNP,2021-01-24,3017
+Northern Mariana Islands,MNP,2021-01-25,3017
+Northern Mariana Islands,MNP,2021-01-26,3055
+Northern Mariana Islands,MNP,2021-01-27,3056
+Northern Mariana Islands,MNP,2021-01-28,3058
+Northern Mariana Islands,MNP,2021-01-29,3058
+Northern Mariana Islands,MNP,2021-01-30,3058
+Northern Mariana Islands,MNP,2021-01-31,3150
+Northern Mariana Islands,MNP,2021-02-01,3247
+Northern Mariana Islands,MNP,2021-02-02,3341
+Northern Mariana Islands,MNP,2021-02-03,3378
+Northern Mariana Islands,MNP,2021-02-04,3399
+Northern Mariana Islands,MNP,2021-02-05,3692
+Northern Mariana Islands,MNP,2021-02-06,3920
+Northern Mariana Islands,MNP,2021-02-07,4035
+Northern Mariana Islands,MNP,2021-02-08,4048
+Northern Mariana Islands,MNP,2021-02-09,4233
+Northern Mariana Islands,MNP,2021-02-10,4348
+Northern Mariana Islands,MNP,2021-02-11,4376
+Northern Mariana Islands,MNP,2021-02-12,4465
+Northern Mariana Islands,MNP,2021-02-13,4789
+Northern Mariana Islands,MNP,2021-02-14,5141
+Northern Mariana Islands,MNP,2021-02-16,5465
+Northern Mariana Islands,MNP,2021-02-17,5691
+Northern Mariana Islands,MNP,2021-02-18,5915
+Northern Mariana Islands,MNP,2021-02-19,6205
+Northern Mariana Islands,MNP,2021-02-20,6205
+Northern Mariana Islands,MNP,2021-02-21,6337
+Northern Mariana Islands,MNP,2021-02-22,6506
+Northern Mariana Islands,MNP,2021-02-23,6676
+Northern Mariana Islands,MNP,2021-02-24,7068
+Northern Mariana Islands,MNP,2021-02-25,7334
+Northern Mariana Islands,MNP,2021-02-26,7415
+Northern Mariana Islands,MNP,2021-02-27,7552
+Northern Mariana Islands,MNP,2021-02-28,7641
+Northern Mariana Islands,MNP,2021-03-01,7642
+Northern Mariana Islands,MNP,2021-03-02,7806
+Northern Mariana Islands,MNP,2021-03-03,7954
+Northern Mariana Islands,MNP,2021-03-04,8142
+Northern Mariana Islands,MNP,2021-03-05,8292
+Northern Mariana Islands,MNP,2021-03-06,8357
+Northern Mariana Islands,MNP,2021-03-07,8444
+Northern Mariana Islands,MNP,2021-03-08,8446
+Northern Mariana Islands,MNP,2021-03-09,8633
+Ohio,,2021-01-15,13552
+Ohio,,2021-01-19,27139
+Ohio,,2021-01-20,30910
+Ohio,,2021-01-21,30910
+Ohio,,2021-01-22,44761
+Ohio,,2021-01-23,59153
+Ohio,,2021-01-24,71344
+Ohio,,2021-01-25,76949
+Ohio,,2021-01-26,80329
+Ohio,,2021-01-27,88834
+Ohio,,2021-01-28,106035
+Ohio,,2021-01-29,125794
+Ohio,,2021-01-30,150948
+Ohio,,2021-01-31,163622
+Ohio,,2021-02-01,179168
+Ohio,,2021-02-02,189502
+Ohio,,2021-02-03,200784
+Ohio,,2021-02-04,217948
+Ohio,,2021-02-05,239651
+Ohio,,2021-02-06,265445
+Ohio,,2021-02-07,285694
+Ohio,,2021-02-08,306072
+Ohio,,2021-02-09,312725
+Ohio,,2021-02-10,326984
+Ohio,,2021-02-11,349390
+Ohio,,2021-02-12,375675
+Ohio,,2021-02-13,409487
+Ohio,,2021-02-14,447697
+Ohio,,2021-02-16,482839
+Ohio,,2021-02-17,496235
+Ohio,,2021-02-18,514513
+Ohio,,2021-02-19,563650
+Ohio,,2021-02-20,602623
+Ohio,,2021-02-21,649412
+Ohio,,2021-02-22,688163
+Ohio,,2021-02-23,708070
+Ohio,,2021-02-24,741704
+Ohio,,2021-02-25,778235
+Ohio,,2021-02-26,808069
+Ohio,,2021-02-27,851065
+Ohio,,2021-02-28,899625
+Ohio,,2021-03-01,923721
+Ohio,,2021-03-02,951847
+Ohio,,2021-03-03,978945
+Ohio,,2021-03-04,1003486
+Ohio,,2021-03-05,1025158
+Ohio,,2021-03-06,1063390
+Ohio,,2021-03-07,1108033
+Ohio,,2021-03-08,1151455
+Ohio,,2021-03-09,1178428
+Oklahoma,,2021-01-12,17463
+Oklahoma,,2021-01-13,22278
+Oklahoma,,2021-01-15,28917
+Oklahoma,,2021-01-19,30919
+Oklahoma,,2021-01-20,32308
+Oklahoma,,2021-01-21,34706
+Oklahoma,,2021-01-22,37435
+Oklahoma,,2021-01-23,39290
+Oklahoma,,2021-01-24,41289
+Oklahoma,,2021-01-25,41634
+Oklahoma,,2021-01-26,41814
+Oklahoma,,2021-01-27,46596
+Oklahoma,,2021-01-28,52465
+Oklahoma,,2021-01-29,60680
+Oklahoma,,2021-01-30,68510
+Oklahoma,,2021-01-31,78459
+Oklahoma,,2021-02-01,80231
+Oklahoma,,2021-02-02,80465
+Oklahoma,,2021-02-03,87596
+Oklahoma,,2021-02-04,99354
+Oklahoma,,2021-02-05,114208
+Oklahoma,,2021-02-06,131556
+Oklahoma,,2021-02-07,145610
+Oklahoma,,2021-02-08,151019
+Oklahoma,,2021-02-09,152243
+Oklahoma,,2021-02-10,162188
+Oklahoma,,2021-02-11,172509
+Oklahoma,,2021-02-12,178566
+Oklahoma,,2021-02-13,188852
+Oklahoma,,2021-02-14,201044
+Oklahoma,,2021-02-16,206173
+Oklahoma,,2021-02-17,206905
+Oklahoma,,2021-02-18,209203
+Oklahoma,,2021-02-19,240890
+Oklahoma,,2021-02-20,251032
+Oklahoma,,2021-02-21,274345
+Oklahoma,,2021-02-22,289719
+Oklahoma,,2021-02-23,299132
+Oklahoma,,2021-02-24,310347
+Oklahoma,,2021-02-25,325335
+Oklahoma,,2021-02-26,346826
+Oklahoma,,2021-02-27,368852
+Oklahoma,,2021-02-28,394484
+Oklahoma,,2021-03-01,401951
+Oklahoma,,2021-03-02,403289
+Oklahoma,,2021-03-03,413355
+Oklahoma,,2021-03-04,427987
+Oklahoma,,2021-03-05,437663
+Oklahoma,,2021-03-06,449798
+Oklahoma,,2021-03-07,460618
+Oklahoma,,2021-03-08,465461
+Oklahoma,,2021-03-09,468285
+Oregon,,2021-01-12,4813
+Oregon,,2021-01-13,7014
+Oregon,,2021-01-15,12795
+Oregon,,2021-01-19,23866
+Oregon,,2021-01-20,23866
+Oregon,,2021-01-21,23866
+Oregon,,2021-01-22,34536
+Oregon,,2021-01-23,37983
+Oregon,,2021-01-24,40348
+Oregon,,2021-01-25,42426
+Oregon,,2021-01-26,43942
+Oregon,,2021-01-27,48261
+Oregon,,2021-01-28,53662
+Oregon,,2021-01-29,58664
+Oregon,,2021-01-30,66188
+Oregon,,2021-01-31,74927
+Oregon,,2021-02-01,79522
+Oregon,,2021-02-02,83898
+Oregon,,2021-02-03,91240
+Oregon,,2021-02-04,100414
+Oregon,,2021-02-05,107146
+Oregon,,2021-02-06,118378
+Oregon,,2021-02-07,130687
+Oregon,,2021-02-08,139700
+Oregon,,2021-02-09,145517
+Oregon,,2021-02-10,152361
+Oregon,,2021-02-11,152361
+Oregon,,2021-02-12,152361
+Oregon,,2021-02-13,181841
+Oregon,,2021-02-14,193105
+Oregon,,2021-02-16,199679
+Oregon,,2021-02-17,202959
+Oregon,,2021-02-18,209930
+Oregon,,2021-02-19,234021
+Oregon,,2021-02-20,249241
+Oregon,,2021-02-21,265789
+Oregon,,2021-02-22,279756
+Oregon,,2021-02-23,292195
+Oregon,,2021-02-24,292308
+Oregon,,2021-02-25,305172
+Oregon,,2021-02-26,325641
+Oregon,,2021-02-27,338259
+Oregon,,2021-02-28,355818
+Oregon,,2021-03-01,367112
+Oregon,,2021-03-02,372950
+Oregon,,2021-03-03,377528
+Oregon,,2021-03-04,388626
+Oregon,,2021-03-05,400819
+Oregon,,2021-03-06,412573
+Oregon,,2021-03-07,423219
+Oregon,,2021-03-08,431930
+Oregon,,2021-03-09,440717
+Pennsylvania,,2021-01-12,10591
+Pennsylvania,,2021-01-13,18051
+Pennsylvania,,2021-01-15,66941
+Pennsylvania,,2021-01-19,79526
+Pennsylvania,,2021-01-20,85290
+Pennsylvania,,2021-01-21,96395
+Pennsylvania,,2021-01-22,112692
+Pennsylvania,,2021-01-23,122849
+Pennsylvania,,2021-01-24,131908
+Pennsylvania,,2021-01-25,135939
+Pennsylvania,,2021-01-26,141304
+Pennsylvania,,2021-01-27,156798
+Pennsylvania,,2021-01-28,159259
+Pennsylvania,,2021-01-29,193432
+Pennsylvania,,2021-01-30,209964
+Pennsylvania,,2021-01-31,223489
+Pennsylvania,,2021-02-01,231261
+Pennsylvania,,2021-02-02,236995
+Pennsylvania,,2021-02-03,237876
+Pennsylvania,,2021-02-04,257255
+Pennsylvania,,2021-02-05,275444
+Pennsylvania,,2021-02-06,298741
+Pennsylvania,,2021-02-07,321336
+Pennsylvania,,2021-02-08,328907
+Pennsylvania,,2021-02-09,340234
+Pennsylvania,,2021-02-10,356869
+Pennsylvania,,2021-02-11,373882
+Pennsylvania,,2021-02-12,399610
+Pennsylvania,,2021-02-13,403898
+Pennsylvania,,2021-02-14,453485
+Pennsylvania,,2021-02-16,457037
+Pennsylvania,,2021-02-17,498866
+Pennsylvania,,2021-02-18,518285
+Pennsylvania,,2021-02-19,577183
+Pennsylvania,,2021-02-20,596337
+Pennsylvania,,2021-02-21,631998
+Pennsylvania,,2021-02-22,651588
+Pennsylvania,,2021-02-23,664130
+Pennsylvania,,2021-02-24,686525
+Pennsylvania,,2021-02-25,716193
+Pennsylvania,,2021-02-26,749659
+Pennsylvania,,2021-02-27,797495
+Pennsylvania,,2021-02-28,830262
+Pennsylvania,,2021-03-01,868979
+Pennsylvania,,2021-03-02,885866
+Pennsylvania,,2021-03-03,911602
+Pennsylvania,,2021-03-04,946761
+Pennsylvania,,2021-03-05,984830
+Pennsylvania,,2021-03-06,1030772
+Pennsylvania,,2021-03-07,1035741
+Pennsylvania,,2021-03-08,1043146
+Pennsylvania,,2021-03-09,1117905
+Puerto Rico,PRI,2021-01-12,7666
+Puerto Rico,PRI,2021-01-13,11550
+Puerto Rico,PRI,2021-01-15,16360
+Puerto Rico,PRI,2021-01-19,21368
+Puerto Rico,PRI,2021-01-20,23428
+Puerto Rico,PRI,2021-01-21,26627
+Puerto Rico,PRI,2021-01-22,32181
+Puerto Rico,PRI,2021-01-23,35705
+Puerto Rico,PRI,2021-01-24,39016
+Puerto Rico,PRI,2021-01-25,39384
+Puerto Rico,PRI,2021-01-26,39522
+Puerto Rico,PRI,2021-01-27,42437
+Puerto Rico,PRI,2021-01-28,45057
+Puerto Rico,PRI,2021-01-29,48196
+Puerto Rico,PRI,2021-01-30,51159
+Puerto Rico,PRI,2021-01-31,54276
+Puerto Rico,PRI,2021-02-01,54972
+Puerto Rico,PRI,2021-02-02,54972
+Puerto Rico,PRI,2021-02-03,58951
+Puerto Rico,PRI,2021-02-04,62336
+Puerto Rico,PRI,2021-02-05,65261
+Puerto Rico,PRI,2021-02-06,69224
+Puerto Rico,PRI,2021-02-07,69224
+Puerto Rico,PRI,2021-02-08,69224
+Puerto Rico,PRI,2021-02-09,75814
+Puerto Rico,PRI,2021-02-10,80807
+Puerto Rico,PRI,2021-02-11,86660
+Puerto Rico,PRI,2021-02-12,86660
+Puerto Rico,PRI,2021-02-13,102807
+Puerto Rico,PRI,2021-02-14,108793
+Puerto Rico,PRI,2021-02-16,111002
+Puerto Rico,PRI,2021-02-17,113075
+Puerto Rico,PRI,2021-02-18,122443
+Puerto Rico,PRI,2021-02-19,139129
+Puerto Rico,PRI,2021-02-20,147986
+Puerto Rico,PRI,2021-02-21,154598
+Puerto Rico,PRI,2021-02-22,154730
+Puerto Rico,PRI,2021-02-23,156724
+Puerto Rico,PRI,2021-02-24,164485
+Puerto Rico,PRI,2021-02-25,172198
+Puerto Rico,PRI,2021-02-26,186526
+Puerto Rico,PRI,2021-02-27,187522
+Puerto Rico,PRI,2021-02-28,194732
+Puerto Rico,PRI,2021-03-01,196380
+Puerto Rico,PRI,2021-03-02,196388
+Puerto Rico,PRI,2021-03-03,202776
+Puerto Rico,PRI,2021-03-04,216614
+Puerto Rico,PRI,2021-03-05,216886
+Puerto Rico,PRI,2021-03-06,223084
+Puerto Rico,PRI,2021-03-07,229772
+Puerto Rico,PRI,2021-03-08,231579
+Puerto Rico,PRI,2021-03-09,232141
+Republic of Palau,,2021-01-15,1
+Republic of Palau,,2021-01-19,1
+Republic of Palau,,2021-01-20,1
+Republic of Palau,,2021-01-21,2
+Republic of Palau,,2021-01-22,2
+Republic of Palau,,2021-01-23,2
+Republic of Palau,,2021-01-24,2
+Republic of Palau,,2021-01-25,2
+Republic of Palau,,2021-01-26,2
+Republic of Palau,,2021-01-29,1
+Republic of Palau,,2021-01-30,1
+Republic of Palau,,2021-01-31,1
+Republic of Palau,,2021-02-01,1
+Republic of Palau,,2021-02-02,63
+Republic of Palau,,2021-02-03,119
+Republic of Palau,,2021-02-04,119
+Republic of Palau,,2021-02-05,251
+Republic of Palau,,2021-02-06,251
+Republic of Palau,,2021-02-07,358
+Republic of Palau,,2021-02-08,358
+Republic of Palau,,2021-02-09,359
+Republic of Palau,,2021-02-10,418
+Republic of Palau,,2021-02-11,722
+Republic of Palau,,2021-02-12,762
+Republic of Palau,,2021-02-13,1103
+Republic of Palau,,2021-02-14,1212
+Republic of Palau,,2021-02-16,1566
+Republic of Palau,,2021-02-17,1899
+Republic of Palau,,2021-02-18,1967
+Republic of Palau,,2021-02-19,2380
+Republic of Palau,,2021-02-20,2382
+Republic of Palau,,2021-02-21,2665
+Republic of Palau,,2021-02-22,2665
+Republic of Palau,,2021-02-23,3019
+Republic of Palau,,2021-02-24,3019
+Republic of Palau,,2021-02-25,3028
+Republic of Palau,,2021-02-26,3060
+Republic of Palau,,2021-02-27,3060
+Republic of Palau,,2021-02-28,3099
+Republic of Palau,,2021-03-01,3099
+Republic of Palau,,2021-03-02,3099
+Republic of Palau,,2021-03-03,3099
+Republic of Palau,,2021-03-04,3099
+Republic of Palau,,2021-03-05,3099
+Republic of Palau,,2021-03-06,3099
+Republic of Palau,,2021-03-07,3099
+Republic of Palau,,2021-03-08,3129
+Republic of Palau,,2021-03-09,3130
+Rhode Island,,2021-01-12,4141
+Rhode Island,,2021-01-13,5490
+Rhode Island,,2021-01-15,8156
+Rhode Island,,2021-01-19,9902
+Rhode Island,,2021-01-20,10696
+Rhode Island,,2021-01-21,11136
+Rhode Island,,2021-01-22,12023
+Rhode Island,,2021-01-23,12580
+Rhode Island,,2021-01-24,13260
+Rhode Island,,2021-01-25,13649
+Rhode Island,,2021-01-26,14148
+Rhode Island,,2021-01-27,16410
+Rhode Island,,2021-01-28,18562
+Rhode Island,,2021-01-29,20321
+Rhode Island,,2021-01-30,22401
+Rhode Island,,2021-01-31,23408
+Rhode Island,,2021-02-01,25435
+Rhode Island,,2021-02-02,26027
+Rhode Island,,2021-02-03,26973
+Rhode Island,,2021-02-04,27884
+Rhode Island,,2021-02-05,28979
+Rhode Island,,2021-02-06,30711
+Rhode Island,,2021-02-07,33699
+Rhode Island,,2021-02-08,35402
+Rhode Island,,2021-02-09,35770
+Rhode Island,,2021-02-10,37051
+Rhode Island,,2021-02-11,38158
+Rhode Island,,2021-02-12,40051
+Rhode Island,,2021-02-13,41591
+Rhode Island,,2021-02-14,43717
+Rhode Island,,2021-02-16,46511
+Rhode Island,,2021-02-17,48089
+Rhode Island,,2021-02-18,51711
+Rhode Island,,2021-02-19,57064
+Rhode Island,,2021-02-20,59553
+Rhode Island,,2021-02-21,61609
+Rhode Island,,2021-02-22,63410
+Rhode Island,,2021-02-23,64439
+Rhode Island,,2021-02-24,65730
+Rhode Island,,2021-02-25,67029
+Rhode Island,,2021-02-26,68469
+Rhode Island,,2021-02-27,70646
+Rhode Island,,2021-02-28,74687
+Rhode Island,,2021-03-01,78482
+Rhode Island,,2021-03-02,80162
+Rhode Island,,2021-03-03,81944
+Rhode Island,,2021-03-04,83435
+Rhode Island,,2021-03-05,86212
+Rhode Island,,2021-03-06,89083
+Rhode Island,,2021-03-07,91551
+Rhode Island,,2021-03-08,93178
+Rhode Island,,2021-03-09,94332
+South Carolina,,2021-01-12,3954
+South Carolina,,2021-01-13,12213
+South Carolina,,2021-01-15,19477
+South Carolina,,2021-01-19,30243
+South Carolina,,2021-01-20,30679
+South Carolina,,2021-01-21,34277
+South Carolina,,2021-01-22,38183
+South Carolina,,2021-01-23,40812
+South Carolina,,2021-01-24,43810
+South Carolina,,2021-01-25,47563
+South Carolina,,2021-01-26,48157
+South Carolina,,2021-01-27,49869
+South Carolina,,2021-01-28,55183
+South Carolina,,2021-01-29,60974
+South Carolina,,2021-01-30,66286
+South Carolina,,2021-01-31,74459
+South Carolina,,2021-02-01,80038
+South Carolina,,2021-02-02,81203
+South Carolina,,2021-02-03,84010
+South Carolina,,2021-02-04,89983
+South Carolina,,2021-02-05,96485
+South Carolina,,2021-02-06,103432
+South Carolina,,2021-02-07,113169
+South Carolina,,2021-02-08,119206
+South Carolina,,2021-02-09,119206
+South Carolina,,2021-02-10,126831
+South Carolina,,2021-02-11,133648
+South Carolina,,2021-02-12,140806
+South Carolina,,2021-02-13,153014
+South Carolina,,2021-02-14,167699
+South Carolina,,2021-02-16,183497
+South Carolina,,2021-02-17,190900
+South Carolina,,2021-02-18,201703
+South Carolina,,2021-02-19,222887
+South Carolina,,2021-02-20,237292
+South Carolina,,2021-02-21,254826
+South Carolina,,2021-02-22,265062
+South Carolina,,2021-02-23,268817
+South Carolina,,2021-02-24,278880
+South Carolina,,2021-02-25,292592
+South Carolina,,2021-02-26,305686
+South Carolina,,2021-02-27,322313
+South Carolina,,2021-02-28,337710
+South Carolina,,2021-03-01,349123
+South Carolina,,2021-03-02,351018
+South Carolina,,2021-03-03,368642
+South Carolina,,2021-03-04,403268
+South Carolina,,2021-03-05,416637
+South Carolina,,2021-03-06,445381
+South Carolina,,2021-03-07,479646
+South Carolina,,2021-03-08,499288
+South Carolina,,2021-03-09,505570
+South Dakota,,2021-01-12,7374
+South Dakota,,2021-01-13,7921
+South Dakota,,2021-01-15,9666
+South Dakota,,2021-01-19,9777
+South Dakota,,2021-01-20,9922
+South Dakota,,2021-01-21,10796
+South Dakota,,2021-01-22,13831
+South Dakota,,2021-01-23,16164
+South Dakota,,2021-01-24,17293
+South Dakota,,2021-01-25,18504
+South Dakota,,2021-01-26,18753
+South Dakota,,2021-01-27,21895
+South Dakota,,2021-01-28,24543
+South Dakota,,2021-01-29,26665
+South Dakota,,2021-01-30,28547
+South Dakota,,2021-01-31,29362
+South Dakota,,2021-02-01,30557
+South Dakota,,2021-02-02,30803
+South Dakota,,2021-02-03,31863
+South Dakota,,2021-02-04,33898
+South Dakota,,2021-02-05,35590
+South Dakota,,2021-02-06,38626
+South Dakota,,2021-02-07,39756
+South Dakota,,2021-02-08,40368
+South Dakota,,2021-02-09,40466
+South Dakota,,2021-02-10,41607
+South Dakota,,2021-02-11,43827
+South Dakota,,2021-02-12,45505
+South Dakota,,2021-02-13,48674
+South Dakota,,2021-02-14,50247
+South Dakota,,2021-02-16,51631
+South Dakota,,2021-02-17,52337
+South Dakota,,2021-02-18,54611
+South Dakota,,2021-02-19,69083
+South Dakota,,2021-02-20,73029
+South Dakota,,2021-02-21,75719
+South Dakota,,2021-02-22,77240
+South Dakota,,2021-02-23,77888
+South Dakota,,2021-02-24,79778
+South Dakota,,2021-02-25,82621
+South Dakota,,2021-02-26,87148
+South Dakota,,2021-02-27,90529
+South Dakota,,2021-02-28,94266
+South Dakota,,2021-03-01,95767
+South Dakota,,2021-03-02,95864
+South Dakota,,2021-03-03,97606
+South Dakota,,2021-03-04,100712
+South Dakota,,2021-03-05,105483
+South Dakota,,2021-03-06,108430
+South Dakota,,2021-03-07,111666
+South Dakota,,2021-03-08,113754
+South Dakota,,2021-03-09,113842
+Tennessee,,2021-01-12,17914
+Tennessee,,2021-01-13,24026
+Tennessee,,2021-01-15,37800
+Tennessee,,2021-01-19,48867
+Tennessee,,2021-01-20,52051
+Tennessee,,2021-01-21,61743
+Tennessee,,2021-01-22,76162
+Tennessee,,2021-01-23,87376
+Tennessee,,2021-01-24,96619
+Tennessee,,2021-01-25,99842
+Tennessee,,2021-01-26,101657
+Tennessee,,2021-01-27,112362
+Tennessee,,2021-01-28,123116
+Tennessee,,2021-01-29,143592
+Tennessee,,2021-01-30,155936
+Tennessee,,2021-01-31,169166
+Tennessee,,2021-02-01,178248
+Tennessee,,2021-02-02,179546
+Tennessee,,2021-02-03,192674
+Tennessee,,2021-02-04,204419
+Tennessee,,2021-02-05,215763
+Tennessee,,2021-02-06,228198
+Tennessee,,2021-02-07,244539
+Tennessee,,2021-02-08,248911
+Tennessee,,2021-02-09,250647
+Tennessee,,2021-02-10,259283
+Tennessee,,2021-02-11,267820
+Tennessee,,2021-02-12,279980
+Tennessee,,2021-02-13,288311
+Tennessee,,2021-02-14,303722
+Tennessee,,2021-02-16,313510
+Tennessee,,2021-02-17,314957
+Tennessee,,2021-02-18,318673
+Tennessee,,2021-02-19,339016
+Tennessee,,2021-02-20,344665
+Tennessee,,2021-02-21,355245
+Tennessee,,2021-02-22,362284
+Tennessee,,2021-02-23,367249
+Tennessee,,2021-02-24,386198
+Tennessee,,2021-02-25,402729
+Tennessee,,2021-02-26,422273
+Tennessee,,2021-02-27,441949
+Tennessee,,2021-02-28,465021
+Tennessee,,2021-03-01,475312
+Tennessee,,2021-03-02,477719
+Tennessee,,2021-03-03,495032
+Tennessee,,2021-03-04,509424
+Tennessee,,2021-03-05,531690
+Tennessee,,2021-03-06,546244
+Tennessee,,2021-03-07,572915
+Tennessee,,2021-03-08,573256
+Tennessee,,2021-03-09,575734
+Texas,,2021-01-12,101317
+Texas,,2021-01-13,115965
+Texas,,2021-01-15,155660
+Texas,,2021-01-19,179801
+Texas,,2021-01-20,187503
+Texas,,2021-01-21,205538
+Texas,,2021-01-22,230596
+Texas,,2021-01-23,251815
+Texas,,2021-01-24,259056
+Texas,,2021-01-25,270118
+Texas,,2021-01-26,301684
+Texas,,2021-01-27,324212
+Texas,,2021-01-28,373624
+Texas,,2021-01-29,413844
+Texas,,2021-01-30,452040
+Texas,,2021-01-31,478812
+Texas,,2021-02-01,502794
+Texas,,2021-02-02,502794
+Texas,,2021-02-03,564433
+Texas,,2021-02-04,621991
+Texas,,2021-02-05,670782
+Texas,,2021-02-06,734386
+Texas,,2021-02-07,779857
+Texas,,2021-02-08,806885
+Texas,,2021-02-09,843836
+Texas,,2021-02-10,893767
+Texas,,2021-02-11,960517
+Texas,,2021-02-12,1036384
+Texas,,2021-02-13,1103754
+Texas,,2021-02-14,1159996
+Texas,,2021-02-16,1215236
+Texas,,2021-02-17,1249085
+Texas,,2021-02-18,1259237
+Texas,,2021-02-19,1331268
+Texas,,2021-02-20,1367318
+Texas,,2021-02-21,1400924
+Texas,,2021-02-22,1426511
+Texas,,2021-02-23,1484480
+Texas,,2021-02-24,1554957
+Texas,,2021-02-25,1667843
+Texas,,2021-02-26,1754655
+Texas,,2021-02-27,1806218
+Texas,,2021-02-28,1884890
+Texas,,2021-03-01,1885470
+Texas,,2021-03-02,2066013
+Texas,,2021-03-03,2182085
+Texas,,2021-03-04,2260140
+Texas,,2021-03-05,2324593
+Texas,,2021-03-06,2409211
+Texas,,2021-03-07,2446292
+Texas,,2021-03-08,2392254
+Texas,,2021-03-09,2460920
+United States,USA,2021-01-12,782228
+United States,USA,2021-01-13,1020260
+United States,USA,2021-01-15,1610524
+United States,USA,2021-01-19,2023124
+United States,USA,2021-01-20,2161419
+United States,USA,2021-01-21,2394961
+United States,USA,2021-01-22,2756953
+United States,USA,2021-01-23,3027865
+United States,USA,2021-01-24,3216836
+United States,USA,2021-01-25,3346390
+United States,USA,2021-01-26,3481921
+United States,USA,2021-01-27,3801053
+United States,USA,2021-01-28,4263056
+United States,USA,2021-01-29,4780888
+United States,USA,2021-01-30,5259693
+United States,USA,2021-01-31,5657142
+United States,USA,2021-02-01,5927847
+United States,USA,2021-02-02,6064792
+United States,USA,2021-02-03,6436931
+United States,USA,2021-02-04,6926050
+United States,USA,2021-02-05,7503864
+United States,USA,2021-02-06,8317180
+United States,USA,2021-02-07,9147185
+United States,USA,2021-02-08,9518015
+United States,USA,2021-02-09,9840429
+United States,USA,2021-02-10,10469514
+United States,USA,2021-02-11,11188782
+United States,USA,2021-02-12,12085830
+United States,USA,2021-02-13,13082172
+United States,USA,2021-02-14,14077440
+United States,USA,2021-02-16,15015434
+United States,USA,2021-02-17,15471536
+United States,USA,2021-02-18,16162358
+United States,USA,2021-02-19,17039118
+United States,USA,2021-02-20,17895667
+United States,USA,2021-02-21,18865319
+United States,USA,2021-02-22,19438495
+United States,USA,2021-02-23,19882544
+United States,USA,2021-02-24,20607261
+United States,USA,2021-02-25,21555117
+United States,USA,2021-02-26,22613359
+United States,USA,2021-02-27,23698627
+United States,USA,2021-02-28,24779920
+United States,USA,2021-03-01,25466405
+United States,USA,2021-03-02,26162122
+United States,USA,2021-03-03,26957804
+United States,USA,2021-03-04,27795980
+United States,USA,2021-03-05,28701201
+United States,USA,2021-03-06,29776160
+United States,USA,2021-03-07,30686881
+United States,USA,2021-03-08,31493040
+United States,USA,2021-03-09,32102061
+Utah,,2021-01-12,4608
+Utah,,2021-01-13,6021
+Utah,,2021-01-15,10534
+Utah,,2021-01-19,15367
+Utah,,2021-01-20,16272
+Utah,,2021-01-21,17275
+Utah,,2021-01-22,20697
+Utah,,2021-01-23,20697
+Utah,,2021-01-24,20697
+Utah,,2021-01-25,25693
+Utah,,2021-01-26,25817
+Utah,,2021-01-27,30065
+Utah,,2021-01-28,30065
+Utah,,2021-01-29,40909
+Utah,,2021-01-30,45874
+Utah,,2021-01-31,45874
+Utah,,2021-02-01,62607
+Utah,,2021-02-02,63286
+Utah,,2021-02-03,63286
+Utah,,2021-02-04,74992
+Utah,,2021-02-05,80826
+Utah,,2021-02-06,88190
+Utah,,2021-02-07,88190
+Utah,,2021-02-08,104274
+Utah,,2021-02-09,105704
+Utah,,2021-02-10,105704
+Utah,,2021-02-11,105704
+Utah,,2021-02-12,105704
+Utah,,2021-02-13,105704
+Utah,,2021-02-14,105704
+Utah,,2021-02-16,118086
+Utah,,2021-02-17,118086
+Utah,,2021-02-18,126080
+Utah,,2021-02-19,136006
+Utah,,2021-02-20,146105
+Utah,,2021-02-21,146286
+Utah,,2021-02-22,146408
+Utah,,2021-02-23,146506
+Utah,,2021-02-24,154920
+Utah,,2021-02-25,168462
+Utah,,2021-02-26,168763
+Utah,,2021-02-27,177135
+Utah,,2021-02-28,177561
+Utah,,2021-03-01,177561
+Utah,,2021-03-02,190682
+Utah,,2021-03-03,196395
+Utah,,2021-03-04,196689
+Utah,,2021-03-05,206238
+Utah,,2021-03-06,211460
+Utah,,2021-03-07,211948
+Utah,,2021-03-08,216903
+Utah,,2021-03-09,236663
+Vermont,,2021-01-15,4100
+Vermont,,2021-01-19,6114
+Vermont,,2021-01-20,6167
+Vermont,,2021-01-21,6545
+Vermont,,2021-01-22,7954
+Vermont,,2021-01-23,8877
+Vermont,,2021-01-24,9853
+Vermont,,2021-01-25,10195
+Vermont,,2021-01-26,10349
+Vermont,,2021-01-27,10806
+Vermont,,2021-01-28,12418
+Vermont,,2021-01-29,14168
+Vermont,,2021-01-30,15213
+Vermont,,2021-01-31,16491
+Vermont,,2021-02-01,18338
+Vermont,,2021-02-02,18903
+Vermont,,2021-02-03,19237
+Vermont,,2021-02-04,20843
+Vermont,,2021-02-05,22483
+Vermont,,2021-02-06,24212
+Vermont,,2021-02-07,26162
+Vermont,,2021-02-08,27144
+Vermont,,2021-02-09,28010
+Vermont,,2021-02-10,28122
+Vermont,,2021-02-11,29713
+Vermont,,2021-02-12,31208
+Vermont,,2021-02-13,32186
+Vermont,,2021-02-14,33495
+Vermont,,2021-02-16,36773
+Vermont,,2021-02-17,36957
+Vermont,,2021-02-18,38381
+Vermont,,2021-02-19,40829
+Vermont,,2021-02-20,43084
+Vermont,,2021-02-21,45017
+Vermont,,2021-02-22,46743
+Vermont,,2021-02-23,47661
+Vermont,,2021-02-24,47757
+Vermont,,2021-02-25,49103
+Vermont,,2021-02-26,50280
+Vermont,,2021-02-27,52718
+Vermont,,2021-02-28,55224
+Vermont,,2021-03-01,58041
+Vermont,,2021-03-02,59544
+Vermont,,2021-03-03,60078
+Vermont,,2021-03-04,61060
+Vermont,,2021-03-05,61881
+Vermont,,2021-03-06,63211
+Vermont,,2021-03-07,65766
+Vermont,,2021-03-08,67485
+Vermont,,2021-03-09,69148
+Veterans Health,,2021-01-12,19301
+Veterans Health,,2021-01-13,26487
+Veterans Health,,2021-01-15,36983
+Veterans Health,,2021-01-19,43469
+Veterans Health,,2021-01-20,44329
+Veterans Health,,2021-01-21,62996
+Veterans Health,,2021-01-22,81966
+Veterans Health,,2021-01-23,93168
+Veterans Health,,2021-01-24,99328
+Veterans Health,,2021-01-25,101396
+Veterans Health,,2021-01-26,101749
+Veterans Health,,2021-01-27,119254
+Veterans Health,,2021-01-28,136319
+Veterans Health,,2021-01-29,151793
+Veterans Health,,2021-01-30,166191
+Veterans Health,,2021-01-31,176655
+Veterans Health,,2021-02-01,181258
+Veterans Health,,2021-02-02,182677
+Veterans Health,,2021-02-03,199554
+Veterans Health,,2021-02-04,208498
+Veterans Health,,2021-02-05,229255
+Veterans Health,,2021-02-06,253303
+Veterans Health,,2021-02-07,291482
+Veterans Health,,2021-02-08,305197
+Veterans Health,,2021-02-09,308881
+Veterans Health,,2021-02-10,332704
+Veterans Health,,2021-02-11,355921
+Veterans Health,,2021-02-12,381365
+Veterans Health,,2021-02-13,409548
+Veterans Health,,2021-02-14,453043
+Veterans Health,,2021-02-16,479556
+Veterans Health,,2021-02-17,488912
+Veterans Health,,2021-02-18,521010
+Veterans Health,,2021-02-19,545078
+Veterans Health,,2021-02-20,571860
+Veterans Health,,2021-02-21,599755
+Veterans Health,,2021-02-22,627679
+Veterans Health,,2021-02-23,656399
+Veterans Health,,2021-02-24,676163
+Veterans Health,,2021-02-25,698669
+Veterans Health,,2021-02-26,719102
+Veterans Health,,2021-02-27,775917
+Veterans Health,,2021-02-28,805178
+Veterans Health,,2021-03-01,822571
+Veterans Health,,2021-03-02,830514
+Veterans Health,,2021-03-03,853672
+Veterans Health,,2021-03-04,879401
+Veterans Health,,2021-03-05,905414
+Veterans Health,,2021-03-06,930285
+Veterans Health,,2021-03-07,954657
+Veterans Health,,2021-03-08,981964
+Veterans Health,,2021-03-09,988084
+Virgin Islands,,2021-01-15,157
+Virgin Islands,,2021-01-19,165
+Virgin Islands,,2021-01-20,240
+Virgin Islands,,2021-01-21,294
+Virgin Islands,,2021-01-22,367
+Virgin Islands,,2021-01-23,409
+Virgin Islands,,2021-01-24,409
+Virgin Islands,,2021-01-25,415
+Virgin Islands,,2021-01-26,496
+Virgin Islands,,2021-01-27,636
+Virgin Islands,,2021-01-28,719
+Virgin Islands,,2021-01-29,889
+Virgin Islands,,2021-01-30,1069
+Virgin Islands,,2021-01-31,1088
+Virgin Islands,,2021-02-01,1090
+Virgin Islands,,2021-02-02,1262
+Virgin Islands,,2021-02-03,1481
+Virgin Islands,,2021-02-04,1975
+Virgin Islands,,2021-02-05,2211
+Virgin Islands,,2021-02-06,2505
+Virgin Islands,,2021-02-07,2505
+Virgin Islands,,2021-02-08,2515
+Virgin Islands,,2021-02-09,2751
+Virgin Islands,,2021-02-10,2956
+Virgin Islands,,2021-02-11,3129
+Virgin Islands,,2021-02-12,3287
+Virgin Islands,,2021-02-13,3533
+Virgin Islands,,2021-02-14,3558
+Virgin Islands,,2021-02-16,3612
+Virgin Islands,,2021-02-17,3860
+Virgin Islands,,2021-02-18,4175
+Virgin Islands,,2021-02-19,4452
+Virgin Islands,,2021-02-20,4785
+Virgin Islands,,2021-02-21,4879
+Virgin Islands,,2021-02-22,4940
+Virgin Islands,,2021-02-23,5224
+Virgin Islands,,2021-02-24,5506
+Virgin Islands,,2021-02-25,5664
+Virgin Islands,,2021-02-26,6066
+Virgin Islands,,2021-02-27,6373
+Virgin Islands,,2021-02-28,6434
+Virgin Islands,,2021-03-01,6531
+Virgin Islands,,2021-03-02,6651
+Virgin Islands,,2021-03-03,6849
+Virgin Islands,,2021-03-04,7187
+Virgin Islands,,2021-03-05,7458
+Virgin Islands,,2021-03-06,7616
+Virgin Islands,,2021-03-07,7622
+Virgin Islands,,2021-03-08,7544
+Virgin Islands,,2021-03-09,7665
+Virginia,,2021-01-15,28164
+Virginia,,2021-01-19,35239
+Virginia,,2021-01-20,37679
+Virginia,,2021-01-21,40340
+Virginia,,2021-01-22,46004
+Virginia,,2021-01-23,49007
+Virginia,,2021-01-24,51170
+Virginia,,2021-01-25,59852
+Virginia,,2021-01-26,72628
+Virginia,,2021-01-27,79443
+Virginia,,2021-01-28,89645
+Virginia,,2021-01-29,99790
+Virginia,,2021-01-30,110877
+Virginia,,2021-01-31,118612
+Virginia,,2021-02-01,125933
+Virginia,,2021-02-02,132292
+Virginia,,2021-02-03,138321
+Virginia,,2021-02-04,146937
+Virginia,,2021-02-05,159239
+Virginia,,2021-02-06,180751
+Virginia,,2021-02-07,198115
+Virginia,,2021-02-08,209104
+Virginia,,2021-02-09,219823
+Virginia,,2021-02-10,231608
+Virginia,,2021-02-11,247784
+Virginia,,2021-02-12,273106
+Virginia,,2021-02-13,306484
+Virginia,,2021-02-14,320109
+Virginia,,2021-02-16,354097
+Virginia,,2021-02-17,368764
+Virginia,,2021-02-18,396059
+Virginia,,2021-02-19,459751
+Virginia,,2021-02-20,477252
+Virginia,,2021-02-21,501118
+Virginia,,2021-02-22,520814
+Virginia,,2021-02-23,537009
+Virginia,,2021-02-24,558330
+Virginia,,2021-02-25,586723
+Virginia,,2021-02-26,632836
+Virginia,,2021-02-27,664132
+Virginia,,2021-02-28,717061
+Virginia,,2021-03-01,737028
+Virginia,,2021-03-02,748805
+Virginia,,2021-03-03,769180
+Virginia,,2021-03-04,794630
+Virginia,,2021-03-05,818962
+Virginia,,2021-03-06,839517
+Virginia,,2021-03-07,858640
+Virginia,,2021-03-08,889474
+Virginia,,2021-03-09,917398
+Washington,,2021-01-12,17689
+Washington,,2021-01-13,22625
+Washington,,2021-01-15,31581
+Washington,,2021-01-19,45237
+Washington,,2021-01-20,49731
+Washington,,2021-01-21,55902
+Washington,,2021-01-22,62152
+Washington,,2021-01-23,67127
+Washington,,2021-01-24,68486
+Washington,,2021-01-25,73738
+Washington,,2021-01-26,76144
+Washington,,2021-01-27,81786
+Washington,,2021-01-28,91733
+Washington,,2021-01-29,99955
+Washington,,2021-01-30,108221
+Washington,,2021-01-31,117398
+Washington,,2021-02-01,126672
+Washington,,2021-02-02,130908
+Washington,,2021-02-03,137930
+Washington,,2021-02-04,147498
+Washington,,2021-02-05,157317
+Washington,,2021-02-06,170990
+Washington,,2021-02-07,183657
+Washington,,2021-02-08,193678
+Washington,,2021-02-09,198379
+Washington,,2021-02-10,215824
+Washington,,2021-02-11,229588
+Washington,,2021-02-12,247481
+Washington,,2021-02-13,263257
+Washington,,2021-02-14,281718
+Washington,,2021-02-16,296840
+Washington,,2021-02-17,312815
+Washington,,2021-02-18,327192
+Washington,,2021-02-19,364470
+Washington,,2021-02-20,389841
+Washington,,2021-02-21,411387
+Washington,,2021-02-22,434996
+Washington,,2021-02-23,443371
+Washington,,2021-02-24,455469
+Washington,,2021-02-25,484767
+Washington,,2021-02-26,513570
+Washington,,2021-02-27,546859
+Washington,,2021-02-28,580143
+Washington,,2021-03-01,618834
+Washington,,2021-03-02,639927
+Washington,,2021-03-03,662168
+Washington,,2021-03-04,683690
+Washington,,2021-03-05,708708
+Washington,,2021-03-06,733727
+Washington,,2021-03-07,760004
+Washington,,2021-03-08,788319
+Washington,,2021-03-09,804325
+West Virginia,,2021-01-15,21162
+West Virginia,,2021-01-19,23723
+West Virginia,,2021-01-20,25681
+West Virginia,,2021-01-21,31587
+West Virginia,,2021-01-22,35390
+West Virginia,,2021-01-23,37979
+West Virginia,,2021-01-24,39071
+West Virginia,,2021-01-25,39453
+West Virginia,,2021-01-26,42821
+West Virginia,,2021-01-27,45244
+West Virginia,,2021-01-28,50843
+West Virginia,,2021-01-29,58113
+West Virginia,,2021-01-30,65165
+West Virginia,,2021-01-31,67183
+West Virginia,,2021-02-01,67363
+West Virginia,,2021-02-02,69893
+West Virginia,,2021-02-03,72456
+West Virginia,,2021-02-04,78405
+West Virginia,,2021-02-05,87679
+West Virginia,,2021-02-06,100159
+West Virginia,,2021-02-07,104023
+West Virginia,,2021-02-08,104711
+West Virginia,,2021-02-09,107679
+West Virginia,,2021-02-10,110332
+West Virginia,,2021-02-11,114445
+West Virginia,,2021-02-12,120819
+West Virginia,,2021-02-13,133868
+West Virginia,,2021-02-14,138882
+West Virginia,,2021-02-16,142817
+West Virginia,,2021-02-17,144370
+West Virginia,,2021-02-18,148742
+West Virginia,,2021-02-19,161329
+West Virginia,,2021-02-20,169795
+West Virginia,,2021-02-21,173068
+West Virginia,,2021-02-22,174287
+West Virginia,,2021-02-23,176709
+West Virginia,,2021-02-24,178975
+West Virginia,,2021-02-25,185374
+West Virginia,,2021-02-26,193594
+West Virginia,,2021-02-27,205801
+West Virginia,,2021-02-28,209759
+West Virginia,,2021-03-01,210642
+West Virginia,,2021-03-02,211589
+West Virginia,,2021-03-03,213929
+West Virginia,,2021-03-04,217666
+West Virginia,,2021-03-05,224165
+West Virginia,,2021-03-06,230801
+West Virginia,,2021-03-07,233139
+West Virginia,,2021-03-08,230156
+West Virginia,,2021-03-09,231295
+Wisconsin,,2021-01-12,11343
+Wisconsin,,2021-01-13,11343
+Wisconsin,,2021-01-15,17108
+Wisconsin,,2021-01-19,23641
+Wisconsin,,2021-01-20,27312
+Wisconsin,,2021-01-21,32268
+Wisconsin,,2021-01-22,37901
+Wisconsin,,2021-01-23,42229
+Wisconsin,,2021-01-24,45641
+Wisconsin,,2021-01-25,47409
+Wisconsin,,2021-01-26,48017
+Wisconsin,,2021-01-27,52332
+Wisconsin,,2021-01-28,57508
+Wisconsin,,2021-01-29,65354
+Wisconsin,,2021-01-30,71976
+Wisconsin,,2021-01-31,78902
+Wisconsin,,2021-02-01,81097
+Wisconsin,,2021-02-02,81523
+Wisconsin,,2021-02-03,84830
+Wisconsin,,2021-02-04,84998
+Wisconsin,,2021-02-05,96850
+Wisconsin,,2021-02-06,110306
+Wisconsin,,2021-02-07,153227
+Wisconsin,,2021-02-08,159160
+Wisconsin,,2021-02-09,160627
+Wisconsin,,2021-02-10,168029
+Wisconsin,,2021-02-11,176673
+Wisconsin,,2021-02-12,190059
+Wisconsin,,2021-02-13,216092
+Wisconsin,,2021-02-14,234709
+Wisconsin,,2021-02-16,243483
+Wisconsin,,2021-02-17,252667
+Wisconsin,,2021-02-18,266163
+Wisconsin,,2021-02-19,306537
+Wisconsin,,2021-02-20,334625
+Wisconsin,,2021-02-21,359360
+Wisconsin,,2021-02-22,371843
+Wisconsin,,2021-02-23,376139
+Wisconsin,,2021-02-24,390586
+Wisconsin,,2021-02-25,410457
+Wisconsin,,2021-02-26,437472
+Wisconsin,,2021-02-27,470564
+Wisconsin,,2021-02-28,498381
+Wisconsin,,2021-03-01,515405
+Wisconsin,,2021-03-02,522547
+Wisconsin,,2021-03-03,536537
+Wisconsin,,2021-03-04,556340
+Wisconsin,,2021-03-05,581022
+Wisconsin,,2021-03-06,606114
+Wisconsin,,2021-03-07,625268
+Wisconsin,,2021-03-08,639644
+Wisconsin,,2021-03-09,642274
+Wyoming,,2021-01-12,2116
+Wyoming,,2021-01-13,2559
+Wyoming,,2021-01-15,2803
+Wyoming,,2021-01-19,3242
+Wyoming,,2021-01-20,3441
+Wyoming,,2021-01-21,3441
+Wyoming,,2021-01-22,4515
+Wyoming,,2021-01-23,4773
+Wyoming,,2021-01-24,4895
+Wyoming,,2021-01-25,4900
+Wyoming,,2021-01-26,4900
+Wyoming,,2021-01-27,5419
+Wyoming,,2021-01-28,5419
+Wyoming,,2021-01-29,7674
+Wyoming,,2021-01-30,7674
+Wyoming,,2021-01-31,9321
+Wyoming,,2021-02-01,9651
+Wyoming,,2021-02-02,9848
+Wyoming,,2021-02-03,10495
+Wyoming,,2021-02-04,10495
+Wyoming,,2021-02-05,12852
+Wyoming,,2021-02-06,14835
+Wyoming,,2021-02-07,14835
+Wyoming,,2021-02-08,16729
+Wyoming,,2021-02-09,16729
+Wyoming,,2021-02-10,18180
+Wyoming,,2021-02-11,18180
+Wyoming,,2021-02-12,23032
+Wyoming,,2021-02-13,23032
+Wyoming,,2021-02-14,27132
+Wyoming,,2021-02-16,27531
+Wyoming,,2021-02-17,27531
+Wyoming,,2021-02-18,30110
+Wyoming,,2021-02-19,36651
+Wyoming,,2021-02-20,39323
+Wyoming,,2021-02-21,39474
+Wyoming,,2021-02-22,43289
+Wyoming,,2021-02-23,43596
+Wyoming,,2021-02-24,43734
+Wyoming,,2021-02-25,46807
+Wyoming,,2021-02-26,49043
+Wyoming,,2021-02-27,52608
+Wyoming,,2021-02-28,54962
+Wyoming,,2021-03-01,55305
+Wyoming,,2021-03-02,55332
+Wyoming,,2021-03-03,57895
+Wyoming,,2021-03-04,58073
+Wyoming,,2021-03-05,60052
+Wyoming,,2021-03-06,65167
+Wyoming,,2021-03-07,65420
+Wyoming,,2021-03-08,68219
+Wyoming,,2021-03-09,68289
