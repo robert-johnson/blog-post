@@ -36,4 +36,4 @@ The main findings of the code can be found at the [post](https://medium.com/@u05
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Udacity courses for some of code ideas, and to ourworldindata.org for the data. You can find the Licensing for the data available [here](https://ourworldindata.org/us-states-vaccinations#licence).
+Must give credit to Udacity courses for some of code ideas, and to [ourworldindata.org](https://ourworldindata.org) for the data. You can find the Licensing for the data available [here](https://ourworldindata.org/us-states-vaccinations#licence).
