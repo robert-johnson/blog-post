@@ -4,7 +4,7 @@
 2. [Project Information](#info)
 3. [Data](#data)
 4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+5. [Licensing and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
@@ -34,6 +34,6 @@ The main findings of the code can be found at the [post](https://rajjr-tx.medium
 
 
 
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+## Licensing and Acknowledgements<a name="licensing"></a>
 
 Must give credit to Udacity courses for some of code ideas, and to [ourworldindata.org](https://ourworldindata.org) for the data. You can find the Licensing for the data available [here](https://ourworldindata.org/us-states-vaccinations#licence).
