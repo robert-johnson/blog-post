@@ -30,7 +30,7 @@ The following files are used as the raw source for the vaccination data in the U
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the [post](https://medium.com/@u0509421/fifa-19-complete-player-dataset-what-can-we-tell-from-it-f7343fdad020)
+The main findings of the code can be found at the [post](https://rajjr-tx.medium.com/does-state-population-impact-the-effectiveness-of-covid-19-vaccination-rollout-in-the-united-states-1fece792aac2)
 
 
 
