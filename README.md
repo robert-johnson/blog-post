@@ -23,10 +23,10 @@ I will be looking into the following questions:
 ## Files Used<a name="files"></a>
 
 The following files are used as the raw source for the vaccination data in the United States:
-us-total-covid-vaccine-doses-distributed.csv
-us-covid-19-total-people-vaccinated.csv
-us-covid-number-fully-vaccinated.csv
-us-population-2020.csv
+1. us-total-covid-vaccine-doses-distributed.csv
+2. us-covid-19-total-people-vaccinated.csv
+3. us-covid-number-fully-vaccinated.csv
+4. us-population-2020.csv
 
 ## Results<a name="results"></a>
 
